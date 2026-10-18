@@ -501,20 +501,27 @@ function pendingReminders(state) {
 // ---------- WhatsApp senders ----------
 
 // Green API gives every instance its own regional host (e.g.
-// https://7107.api.greenapi.com). The console shows it, but to keep setup to
-// 3 secrets we resolve the host ourselves: try the cluster host derived from
-// the first 4 digits of the instance id, then the classic hosts.
+// https://7107.api.green-api.com). Every call path also needs the
+// /waInstance{id}/ segment — e.g.
+// https://7107.api.green-api.com/waInstance{id}/sendMessage/{token}
+// (verified against a live instance; without it every call 404s). To keep
+// setup to 3 secrets we resolve the host ourselves: try the cluster host
+// derived from the first 4 digits of the instance id, then the classic hosts.
 let GREEN_BASE = null;
 async function greenBaseUrl() {
   if (GREEN_BASE) return GREEN_BASE;
   const candidates = [];
   const m = WHATSAPP_GREEN_INSTANCE_ID.match(/^(\d{4})/);
-  if (m) candidates.push(`https://${m[1]}.api.greenapi.com`);
+  if (m) candidates.push(`https://${m[1]}.api.green-api.com`);
   candidates.push("https://api.green-api.com");
   candidates.push("https://api.greenapi.com");
   for (const base of candidates) {
     try {
-      const res = await fetchWithTimeout(`${base}/getSettings/${WHATSAPP_GREEN_TOKEN}`, {}, 15000);
+      const res = await fetchWithTimeout(
+        `${base}/waInstance${WHATSAPP_GREEN_INSTANCE_ID}/getSettings/${WHATSAPP_GREEN_TOKEN}`,
+        {},
+        15000
+      );
       if (res.ok) {
         GREEN_BASE = base;
         console.log(`Green API host: ${base}`);
@@ -535,7 +542,7 @@ async function waSendGreen(text) {
   try {
     const base = await greenBaseUrl();
     const res = await fetchWithTimeout(
-      `${base}/sendMessage/${WHATSAPP_GREEN_TOKEN}`,
+      `${base}/waInstance${WHATSAPP_GREEN_INSTANCE_ID}/sendMessage/${WHATSAPP_GREEN_TOKEN}`,
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -592,7 +599,7 @@ async function readReplies(state) {
     let n = null;
     try {
       const res = await fetchWithTimeout(
-        `${base}/receiveNotification/${WHATSAPP_GREEN_TOKEN}?receiveTimeout=5`,
+        `${base}/waInstance${WHATSAPP_GREEN_INSTANCE_ID}/receiveNotification/${WHATSAPP_GREEN_TOKEN}?receiveTimeout=5`,
         {},
         25000
       );
@@ -607,7 +614,7 @@ async function readReplies(state) {
     // Always delete from the queue so we never read the same one twice.
     try {
       await fetchWithTimeout(
-        `${base}/deleteNotification/${WHATSAPP_GREEN_TOKEN}/${n.receiptId}`,
+        `${base}/waInstance${WHATSAPP_GREEN_INSTANCE_ID}/deleteNotification/${WHATSAPP_GREEN_TOKEN}/${n.receiptId}`,
         { method: "DELETE" },
         15000
       );
