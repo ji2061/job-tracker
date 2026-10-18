@@ -1,10 +1,16 @@
-name: Nightly job scrape
+name: Job scrape + WhatsApp alerts
 
-# Runs ~03:00 UTC every night (= ~4am UK summer / 3am UK winter) and updates
-# jobs-data.json. Your GitHub Pages site redeploys automatically after the push.
+# Runs EVERY 30 MINUTES (free on public repos). Each run:
+#   - reads your APPLIED / NO THANKS WhatsApp replies
+#   - searches Reed + Adzuna + a rotating batch of 4 google-style dorks
+#     (full 12-dork sweep every 6 hours)
+#   - INSTANTLY WhatsApps you any job not seen before (JOB NAME, PAY,
+#     DISTANCE, BUS LINK, WHAT YOU'D DO, COVER LETTER, APPLY LINK)
+#   - reminds you once a day about jobs you haven't answered
+#   - updates jobs-data.json (site redeploys) + jobs-state.json (your answers)
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch: {} # lets you click "Run workflow" manually
 
 permissions:
@@ -17,6 +23,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
 
@@ -24,7 +31,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Scrape free job boards
+      - name: Scrape job boards + send WhatsApp alerts
         env:
           REED_API_KEY: ${{ secrets.REED_API_KEY }}
           ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
@@ -41,10 +48,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add jobs-data.json
+          git add jobs-data.json jobs-state.json
           if git diff --cached --quiet; then
             echo "No new jobs - nothing to commit."
           else
-            git commit -m "nightly scrape: refresh job cards"
+            git commit -m "job scrape: refresh cards + alert memory"
             git push
           fi
