@@ -1,0 +1,50 @@
+name: Nightly job scrape
+
+# Runs ~03:00 UTC every night (= ~4am UK summer / 3am UK winter) and updates
+# jobs-data.json. Your GitHub Pages site redeploys automatically after the push.
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch: {} # lets you click "Run workflow" manually
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nightly-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Scrape free job boards
+        env:
+          REED_API_KEY: ${{ secrets.REED_API_KEY }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          WHATSAPP_PHONE: ${{ secrets.WHATSAPP_PHONE }}
+          WHATSAPP_API_KEY: ${{ secrets.WHATSAPP_API_KEY }}
+          WHATSAPP_GREEN_INSTANCE_ID: ${{ secrets.WHATSAPP_GREEN_INSTANCE_ID }}
+          WHATSAPP_GREEN_TOKEN: ${{ secrets.WHATSAPP_GREEN_TOKEN }}
+        run: node scraper/nightly-scrape.mjs
+
+      - name: Commit results if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobs-data.json
+          if git diff --cached --quiet; then
+            echo "No new jobs - nothing to commit."
+          else
+            git commit -m "nightly scrape: refresh job cards"
+            git push
+          fi
