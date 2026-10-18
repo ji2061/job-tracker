@@ -813,6 +813,12 @@ async function main() {
   // 3) Scrape (rotated dork batch; full sweep every 6 hours)
   const results = await Promise.all([scrapeReed(), scrapeAdzuna(), scrapeWebDorks(pickDorks())]);
   let jobs = dedupe(results.flat());
+  // Final safety gate before anything becomes a site card or a WhatsApp
+  // alert: no 18+ roles, no driving/warehouse/age-gated titles (the dork
+  // layer only checks 18+, so this catches the rest).
+  jobs = jobs.filter(
+    (j) => !isExcludedTitle(j.title) && !isEighteenPlus(`${j.title} ${j.summary || ""}`)
+  );
   for (const j of jobs) j.score = scoreJob(j.title, j.summary || "", j.url || "");
   jobs.sort((a, b) => b.score - a.score);
 
