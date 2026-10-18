@@ -255,11 +255,11 @@
         "title": "Kingston Upon Thames United Kingdom jobs - CV-Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 130 live Kingston Upon Thames United Kingdom jobs on www. CV -library.co.uk.",
+        "summary": "Join a welcoming independent school in Kingston Upon Thames , supporting young children as they learn, play and grow. This part-time, year-round opportunity offers a fantastic setting to develop your career.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-united-kingdom-jobs",
         "pay": "See listing",
         "source": "web dork",
-        "score": 50
+        "score": 56
       }
     },
     "web-1tsj7fp": {
@@ -315,11 +315,26 @@
         "title": "Lidl Job Search: Find your new job here!",
         "company": "careers.lidl.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Estate and Retail Operations Graduate Programme 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Student & Graduate \u00a340,000 per annum*",
+        "summary": "Estate and Retail Operations Graduate Programme 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Student & Graduate £40,000 per annum*",
         "url": "https://careers.lidl.co.uk/jobsearch?page=1&sort_field=location.distance&sort_order=asc&baseSearch=%7B%22location%22:%7B%22midPointName%22:%22Surbiton,+Greater+London%22,%22latitude%22:51.3763,%22longitude%22:-0.2791,%22max_distance%22:%222%22%7D%7D",
         "pay": "See listing",
         "source": "web dork",
         "score": 50
+      }
+    },
+    "web-1i955j7": {
+      "status": "new",
+      "firstSeen": 1792365967644,
+      "job": {
+        "id": "web-1i955j7",
+        "title": "Postal Delivery Driver by Pertemps Royal Mail in Kingston upon Thames ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Whether you&#x27;re looking for seasonal work, enjoy being active outdoors, or thrive in a customer-facing role, this could be the perfect opportunity for you. As a Postal Delivery Driver, you&#x27;ll play an important part in keeping communities connected by delivering letters and parcels safely and efficiently to homes and businesses across the local area.",
+        "url": "https://www.cv-library.co.uk/job/225728260/postal-delivery-driver",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
       }
     }
   }
