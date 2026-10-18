@@ -22,13 +22,14 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-lsmmgp",
-        "title": "Urgent! Christmas grotto elf jobs in Kingston upon Thames ... - Jooble",
+        "title": "Christmas grotto elf jobs in Kingston upon Thames, Greater London",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 233.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 297.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-christmas-grotto-elf/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
-        "source": "web dork"
+        "source": "web dork",
+        "score": 73
       }
     },
     "web-o20t2k": {
@@ -361,7 +362,7 @@
         "title": "Weekend jobs in New Malden, Greater London - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Weekend jobs in New Malden , Greater London. Explore 439.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Weekend jobs in New Malden , Greater London. Explore 306.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-weekend/New%20Malden%2C%20Greater%20London",
         "pay": "See listing",
         "source": "web dork",
@@ -441,6 +442,36 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 40
+      }
+    },
+    "web-37vb0x": {
+      "status": "new",
+      "firstSeen": 1792366959206,
+      "job": {
+        "id": "web-37vb0x",
+        "title": "Christmas events in Kingston upon Thames 2026 for families",
+        "company": "huddlepin.com",
+        "location": "Kingston area (web find)",
+        "summary": "Grottos , light trails, pantos and festive farm days across Kingston upon Thames , from the first switch-on to Twelfth Night, with the dates, prices and ages that organisers publish.",
+        "url": "https://huddlepin.com/kingston-upon-thames/christmas",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      }
+    },
+    "web-1ejiz15": {
+      "status": "new",
+      "firstSeen": 1792366959206,
+      "job": {
+        "id": "web-1ejiz15",
+        "title": "Christmas Job in Kingston upon Thames (with Salaries) - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Christmas jobs now hiring in Kingston upon Thames on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-christmas-jobs-l-kingston-upon-thames-jobs.html",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 55
       }
     }
   }
