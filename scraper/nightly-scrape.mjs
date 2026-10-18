@@ -9,10 +9,11 @@
  *      google-style DuckDuckGo dork searches (full 12-dork sweep every 6h,
  *      keyless, free).
  *   3. Any job not seen before -> INSTANT WhatsApp message with:
- *      JOB NAME (caps), pay, distance from KT1 3HZ, live bus-route link,
- *      what you'd do, cover-letter guidance, and the apply link.
+ *      JOB NAME, pay, distance from KT1 3HZ, WHICH BUS NUMBERS to take
+ *      from Kingston + tap-for-live-route link, what you'd do,
+ *      cover-letter guidance, and the apply link. ALL CAPS throughout.
  *   4. Jobs you haven't answered get one reminder per day (up to 7) until
- *      you reply APPLIED or NO THANKS.
+ *      you reply APPLIED or DONT WANT TO DO.
  *   5. Rewrites jobs-data.json (site updates automatically) and
  *      jobs-state.json (memory of what you answered).
  *
@@ -152,39 +153,42 @@ function dedupe(jobs) {
 
 // ---------- distance + bus helpers ----------
 
-// Approx straight-line miles from KT1 3HZ. Display only — the maps link
-// gives the real journey. First match wins, so longer names come first.
+// Approx straight-line miles from KT1 3HZ + which buses get there from
+// Kingston town centre (Cromwell Rd bus station / Eden St stops). Bus
+// numbers verified against TfL + White Bus route lists, Oct 2026.
+// null = no direct bus from Kingston — the live-route link covers it.
+// First match wins, so longer names come first.
 const TOWN_MILES = [
-  ["kingston upon thames", 0],
-  ["kingston town centre", 0],
-  ["kingston", 0.5],
-  ["norbiton", 1],
-  ["berrylands", 1.5],
-  ["hampton wick", 1.5],
-  ["surbiton", 1.5],
-  ["tolworth", 2],
-  ["long ditton", 2.5],
-  ["kingston vale", 2.5],
-  ["thames ditton", 3],
-  ["new malden", 3],
-  ["old malden", 3],
-  ["hook", 3],
-  ["hinchley wood", 3.5],
-  ["teddington", 3.5],
-  ["chessington", 4],
-  ["weston green", 4],
-  ["claygate", 4.5],
-  ["esher", 4.5],
-  ["worcester park", 4.5],
-  ["malden rushett", 4.5],
-  ["east molesey", 5],
-  ["west molesey", 5],
-  ["hampton", 5],
+  ["kingston upon thames", 0, null],
+  ["kingston town centre", 0, null],
+  ["kingston", 0.5, null],
+  ["norbiton", 1, "213, 85 or K3"],
+  ["berrylands", 1.5, "K2"],
+  ["hampton wick", 1.5, "281"],
+  ["surbiton", 1.5, "281, 406, 411, 465, 71, K1, K2 or K3"],
+  ["tolworth", 2, "281, 406, 411, K1 or K2"],
+  ["long ditton", 2.5, "K3"],
+  ["kingston vale", 2.5, "85 or K3"],
+  ["thames ditton", 3, "458"],
+  ["new malden", 3, "213 or K1"],
+  ["old malden", 3, null],
+  ["hook", 3, "71, 465, K1 or K2"],
+  ["hinchley wood", 3.5, "K3 or 458"],
+  ["teddington", 3.5, "281"],
+  ["chessington", 4, "71, 465 or K2"],
+  ["weston green", 4, null],
+  ["claygate", 4.5, "K3"],
+  ["esher", 4.5, "K3 or 458"],
+  ["worcester park", 4.5, "213"],
+  ["malden rushett", 4.5, "465"],
+  ["east molesey", 5, "461 (weekdays only, a few buses)"],
+  ["west molesey", 5, null],
+  ["hampton", 5, null],
 ];
 
 function areaFor(text) {
   const t = String(text || "").toLowerCase();
-  for (const [town, miles] of TOWN_MILES) {
+  for (const [town, miles, buses] of TOWN_MILES) {
     // short town names (hook, esher) need word boundaries so "shook" or
     // "leatherhead" never match; longer names are safe with includes()
     const hit =
@@ -192,7 +196,11 @@ function areaFor(text) {
         ? new RegExp(`\\b${town}\\b`, "i").test(t)
         : t.includes(town);
     if (hit) {
-      return { town: town.replace(/\b\w/g, (c) => c.toUpperCase()), miles };
+      return {
+        town: town.replace(/\b\w/g, (c) => c.toUpperCase()),
+        miles,
+        buses,
+      };
     }
   }
   return null;
@@ -203,6 +211,12 @@ export function distanceFor(job) {
   if (!hit) return "in your 5-mile bus area";
   if (hit.miles === 0) return "0 miles — Kingston town centre, you can walk it";
   return `~${hit.miles} mile${hit.miles === 1 ? "" : "s"} away — ${hit.town}`;
+}
+
+// Bus numbers from Kingston town centre, or null if no direct route.
+export function busFor(job) {
+  const hit = areaFor(`${job.location || ""} ${job.title || ""} ${job.company || ""}`);
+  return hit ? hit.buses : null;
 }
 
 export function busLinkFor(job) {
@@ -638,14 +652,20 @@ export function buildJobAlert(job, num) {
   const about = what
     ? what.slice(0, 220) + (what.length > 220 ? "…" : "")
     : "Open the listing to see the full description.";
+  const buses = busFor(job);
+  const busLine = buses
+    ? `🚌 BUS FROM YOURS: ${buses} (buses leave from Kingston town centre)`
+    : `🚌 BUS FROM YOURS: tap the live route below to see which bus`;
+  // Every line ALL CAPS — except URLs, which must stay lowercase to work.
   return [
     `🚨 NEW JOB #${num} 🚨`,
     ``,
-    `🔨 JOB: ${String(job.title).toUpperCase()}`,
+    `🔨 JOB: ${String(job.title)}`,
     `🏪 WHERE: ${job.company || "see listing"}`,
     `💰 PAY: ${payLine(job)}`,
     `📍 DISTANCE: ${distanceFor(job)}`,
-    `🚌 BUS FROM YOURS (tap = live route):`,
+    busLine,
+    `🎟️ TAP FOR THE LIVE BUS ROUTE:`,
     busLinkFor(job),
     ``,
     `📋 WHAT YOU'D DO: ${about}`,
@@ -657,18 +677,25 @@ export function buildJobAlert(job, num) {
     ``,
     `▬▬▬▬▬▬▬▬▬▬▬▬▬`,
     `Done it? Reply: APPLIED ${num}`,
-    `Not for you? Reply: NO THANKS ${num}`,
-  ].join("\n");
+    `Not for you? Reply: DONT WANT TO DO ${num}`,
+  ]
+    .map((l) => (l.startsWith("http") ? l : l.toUpperCase()))
+    .join("\n");
 }
 
 export function buildReminder(job, num) {
+  const buses = busFor(job);
   return [
     `⏰ STILL OPEN — JOB #${num}`,
-    `🔨 ${String(job.title).toUpperCase()}`,
+    `🔨 ${String(job.title)}`,
     `🏪 ${job.company || "see listing"} · 💰 ${payLine(job)}`,
-    `▶️ APPLY: ${job.url}`,
-    `Stop reminders: reply APPLIED ${num} or NO THANKS ${num}`,
-  ].join("\n");
+    `📍 ${distanceFor(job)}${buses ? ` · 🚌 BUS: ${buses}` : ""}`,
+    `▶️ APPLY NOW:`,
+    job.url,
+    `STOP REMINDERS: REPLY APPLIED ${num} OR DONT WANT TO DO ${num}`,
+  ]
+    .map((l) => (l.startsWith("http") ? l : l.toUpperCase()))
+    .join("\n");
 }
 
 function buildWelcome() {
@@ -679,10 +706,12 @@ function buildWelcome() {
     ``,
     `When I find one you get it here INSTANTLY: JOB NAME, PAY, DISTANCE, WHICH BUS, WHAT YOU'D DO + the APPLY LINK.`,
     ``,
-    `Reply APPLIED or NO THANKS to any job I send and I stop nagging you about it.`,
+    `Reply APPLIED 5 or DONT WANT TO DO 5 (with the job number) and I stop nagging you about that job for good.`,
     ``,
     `First real job alert should land within a few hours 🎄`,
-  ].join("\n");
+  ]
+    .map((l) => l.toUpperCase())
+    .join("\n");
 }
 
 // ---------- Telegram morning digest (unchanged) ----------

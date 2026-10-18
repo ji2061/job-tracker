@@ -151,7 +151,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 73 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 73 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -169,7 +169,8 @@
         "summary": "Discover 316 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+retail&l=kingston+upon+thames",
         "pay": "See listing",
-        "source": "web dork"
+        "source": "web dork",
+        "score": 65
       }
     },
     "web-rbts4o": {
@@ -335,6 +336,111 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 65
+      }
+    },
+    "web-bsplnw": {
+      "status": "new",
+      "firstSeen": 1792366926246,
+      "job": {
+        "id": "web-bsplnw",
+        "title": "seasonal christmas part time jobs in Kingston upon Thames",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Explore 91 Seasonal Christmas Part Time job openings in Kingston upon Thames on Indeed. Find flexible work near you that fits your schedule from retail, food service, delivery, and more.",
+        "url": "https://uk.indeed.com/q-seasonal-christmas-part-time-l-kingston-upon-thames-jobs.html?vjk=4b9480f921a73a83",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 61
+      }
+    },
+    "web-1489evd": {
+      "status": "new",
+      "firstSeen": 1792366926246,
+      "job": {
+        "id": "web-1489evd",
+        "title": "Weekend jobs in New Malden, Greater London - Jooble",
+        "company": "uk.jooble.org",
+        "location": "Kingston area (web find)",
+        "summary": "Apply for Weekend jobs in New Malden , Greater London. Explore 439.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend jobs is easy to find. Start your new career right now!",
+        "url": "https://uk.jooble.org/jobs-weekend/New%20Malden%2C%20Greater%20London",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 58
+      }
+    },
+    "web-6ycu75": {
+      "status": "new",
+      "firstSeen": 1792366926246,
+      "job": {
+        "id": "web-6ycu75",
+        "title": "Weekend Work, Jobs in New Malden (with Salaries) | SimplyHired",
+        "company": "simplyhired.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Discover 516 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
+        "url": "https://www.simplyhired.co.uk/search?q=weekend&l=new%20malden",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 56
+      }
+    },
+    "web-1fe4esx": {
+      "status": "new",
+      "firstSeen": 1792366926246,
+      "job": {
+        "id": "web-1fe4esx",
+        "title": "store assistant weekend jobs in New Malden - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Store Assistant Weekend jobs now hiring in New Malden on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-store-assistant-weekend-l-new-malden-jobs.html",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 46
+      }
+    },
+    "web-11ect3s": {
+      "status": "new",
+      "firstSeen": 1792366926246,
+      "job": {
+        "id": "web-11ect3s",
+        "title": "weekend availability jobs in New Malden - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Weekend Availability jobs now hiring in New Malden on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-weekend-availability-l-new-malden-jobs.html",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 46
+      }
+    },
+    "web-3346do": {
+      "status": "new",
+      "firstSeen": 1792366926246,
+      "job": {
+        "id": "web-3346do",
+        "title": "Weekend Jobs in New Malden - Updated Daily | Weekend Job Vacancies New ...",
+        "company": "totaljobs.com",
+        "location": "Kingston area (web find)",
+        "summary": "815 Weekend jobs in New Malden on totaljobs. Get instant job matches for companies hiring now for Weekend jobs in New Malden like Driving, Caring, Management and more. We&#x27;ll get you noticed.",
+        "url": "https://www.totaljobs.com/jobs/weekend/in-new-malden",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 46
+      }
+    },
+    "web-1hv9dan": {
+      "status": "new",
+      "firstSeen": 1792366926246,
+      "job": {
+        "id": "web-1hv9dan",
+        "title": "great grotto jobs in Kingston upon Thames - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Great Grotto jobs now hiring in Kingston upon Thames on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-great-grotto-l-kingston-upon-thames-jobs.html",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 40
       }
     }
   }
