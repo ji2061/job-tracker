@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "counter": 0,
-  "welcomeSent": false,
+  "counter": 5,
+  "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
       "status": "seen",
@@ -325,7 +325,7 @@
       }
     },
     "web-1i955j7": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792365967644,
       "job": {
         "id": "web-1i955j7",
@@ -337,10 +337,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 65
-      }
+      },
+      "num": 1,
+      "lastSent": 1792367604075
     },
     "web-bsplnw": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792366926246,
       "job": {
         "id": "web-bsplnw",
@@ -352,10 +354,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 61
-      }
+      },
+      "num": 2,
+      "lastSent": 1792367604253
     },
     "web-1489evd": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792366926246,
       "job": {
         "id": "web-1489evd",
@@ -367,10 +371,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 58
-      }
+      },
+      "num": 3,
+      "lastSent": 1792367604429
     },
     "web-6ycu75": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792366926246,
       "job": {
         "id": "web-6ycu75",
@@ -382,10 +388,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 56
-      }
+      },
+      "num": 4,
+      "lastSent": 1792367604622
     },
     "web-1fe4esx": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792366926246,
       "job": {
         "id": "web-1fe4esx",
@@ -397,7 +405,9 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 46
-      }
+      },
+      "num": 5,
+      "lastSent": 1792367604837
     },
     "web-11ect3s": {
       "status": "new",
@@ -472,6 +482,66 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 55
+      }
+    },
+    "web-19mdghi": {
+      "status": "new",
+      "firstSeen": 1792367593615,
+      "job": {
+        "id": "web-19mdghi",
+        "title": "Weekend saturday sunday jobs in New Malden, Greater London",
+        "company": "uk.jooble.org",
+        "location": "Kingston area (web find)",
+        "summary": "Apply for Weekend saturday sunday jobs in New Malden , Greater London. Explore 297.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend saturday sunday jobs is easy to find. Start your new career right now!",
+        "url": "https://uk.jooble.org/jobs-weekend-saturday-sunday/New-Malden%2C-Greater-London",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 60
+      }
+    },
+    "web-jj04qi": {
+      "status": "new",
+      "firstSeen": 1792367593615,
+      "job": {
+        "id": "web-jj04qi",
+        "title": "Christmas Jobs in Kingston Upon Thames - Updated Daily | Christmas Job ...",
+        "company": "totaljobs.com",
+        "location": "Kingston area (web find)",
+        "summary": "266 Christmas jobs in Kingston Upon Thames on totaljobs. Get instant job matches for companies hiring now for Christmas jobs in Kingston Upon Thames like Sales Advising, Management, Nursery and more. We&#x27;ll get you noticed.",
+        "url": "https://www.totaljobs.com/jobs/christmas/in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 55
+      }
+    },
+    "web-1ci3crj": {
+      "status": "new",
+      "firstSeen": 1792367593615,
+      "job": {
+        "id": "web-1ci3crj",
+        "title": "271 Best store Jobs in New Malden (October 2026) | JOB TODAY",
+        "company": "jobtoday.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to 271 store jobs available and hiring now in New Malden . New store vacancies are added daily on JOB TODAY. Get set up in seconds & start chatting with employers in minutes!",
+        "url": "https://jobtoday.com/gb/jobs-store/new-malden",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      }
+    },
+    "web-1lhr1y7": {
+      "status": "new",
+      "firstSeen": 1792367593615,
+      "job": {
+        "id": "web-1lhr1y7",
+        "title": "weekend work jobs in New Malden KT3 - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Weekend Work jobs now hiring in New Malden KT3 on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-weekend-work-l-new-malden-kt3-jobs.html",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 46
       }
     }
   }
