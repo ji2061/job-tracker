@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 5,
+  "counter": 10,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -410,7 +410,7 @@
       "lastSent": 1792367604837
     },
     "web-11ect3s": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792366926246,
       "job": {
         "id": "web-11ect3s",
@@ -422,10 +422,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 46
-      }
+      },
+      "num": 6,
+      "lastSent": 1792373246263
     },
     "web-3346do": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792366926246,
       "job": {
         "id": "web-3346do",
@@ -437,10 +439,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 46
-      }
+      },
+      "num": 7,
+      "lastSent": 1792373246897
     },
     "web-1hv9dan": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792366926246,
       "job": {
         "id": "web-1hv9dan",
@@ -452,10 +456,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 40
-      }
+      },
+      "num": 8,
+      "lastSent": 1792373247025
     },
     "web-37vb0x": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792366959206,
       "job": {
         "id": "web-37vb0x",
@@ -467,10 +473,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 65
-      }
+      },
+      "num": 9,
+      "lastSent": 1792373247151
     },
     "web-1ejiz15": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792366959206,
       "job": {
         "id": "web-1ejiz15",
@@ -482,7 +490,9 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 55
-      }
+      },
+      "num": 10,
+      "lastSent": 1792373247272
     },
     "web-19mdghi": {
       "status": "new",
