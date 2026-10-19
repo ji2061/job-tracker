@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 25,
+  "counter": 30,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -161,7 +161,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 73 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
+        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -188,10 +188,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-rbts4o",
-        "title": "Seasonal jobs in Kingston upon Thames - CV-Library.co.uk",
+        "title": "Seasonal jobs in Kingston upon Thames, Greater London - October 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 193 live Seasonal jobs in Kingston upon Thames on CV -Library. 111 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "summary": "Find 236 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -203,10 +203,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-1uao82g",
-        "title": "Career For Part Time jobs in Kingston upon Thames",
+        "title": "Career For Part Time jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 820 live Career For Part Time jobs in Kingston upon Thames on CV -Library. 371 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "summary": "Find 930 live Career For Part Time jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/career-for-part-time-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -233,10 +233,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-vf3iqp",
-        "title": "Kingston Upon Thames jobs - September 2026 | CV Library",
+        "title": "Kingston Upon Thames jobs - October 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 103 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
+        "summary": "Find 124 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -248,10 +248,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-kur60s",
-        "title": "Jobs Kingston Upon Thames Jobs - May 2026 | CV-Library.co.uk",
+        "title": "Search 40,000+ jobs on CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 33 live Jobs Kingston Upon Thames jobs on CV -Library. 23 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "summary": "Find 86012 live jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/jobs-kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -281,7 +281,7 @@
         "title": "Jobs in Kingston upon Thames, Greater London - CV-Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 343 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 443 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/part-time-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -759,7 +759,7 @@
       "lastSent": 1792438368414
     },
     "web-rl35zo": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792417544814,
       "job": {
         "id": "web-rl35zo",
@@ -771,10 +771,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 73
-      }
+      },
+      "num": 26,
+      "lastSent": 1792451418990
     },
     "web-l893z7": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792417544814,
       "job": {
         "id": "web-l893z7",
@@ -786,10 +788,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 66
-      }
+      },
+      "num": 27,
+      "lastSent": 1792451420181
     },
     "web-6zsmy7": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792417544814,
       "job": {
         "id": "web-6zsmy7",
@@ -801,10 +805,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 46
-      }
+      },
+      "num": 28,
+      "lastSent": 1792451420450
     },
     "web-1q0sf8r": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792438358610,
       "job": {
         "id": "web-1q0sf8r",
@@ -816,7 +822,26 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 66
-      }
+      },
+      "num": 29,
+      "lastSent": 1792451420667
+    },
+    "web-kr8jbp": {
+      "status": "sent",
+      "firstSeen": 1792451405050,
+      "job": {
+        "id": "web-kr8jbp",
+        "title": "Temporary jobs in Kingston upon Thames - CV-Library.co.uk",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 2,295 live Temporary jobs in Kingston upon Thames on CV -Library. 523 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "url": "https://www.cv-library.co.uk/temporary-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 52
+      },
+      "num": 30,
+      "lastSent": 1792451420871
     }
   }
 }
