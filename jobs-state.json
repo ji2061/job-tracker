@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 32,
+  "counter": 33,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -128,10 +128,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-1ark9q2",
-        "title": "335 Christmas temp jobs in Kingston upon Thames, England",
+        "title": "341 Christmas temp jobs in Kingston upon Thames, England",
         "company": "glassdoor.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 335 open jobs for Christmas temp in Kingston upon Thames .",
+        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 341 open jobs for Christmas temp in Kingston upon Thames .",
         "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-christmas-temp-jobs-SRCH_IL.0,20_IC3288244_KO21,35.htm",
         "pay": "See listing",
         "source": "web dork",
@@ -161,7 +161,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 74 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 74 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -176,7 +176,7 @@
         "title": "christmas retail jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 310 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 339 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+retail&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -398,7 +398,7 @@
         "title": "Weekend Work, Jobs in New Malden (with Salaries) | SimplyHired",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 511 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
+        "summary": "Discover 506 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=weekend&l=new%20malden",
         "pay": "See listing",
         "source": "web dork",
@@ -519,7 +519,9 @@
         "score": 55
       },
       "num": 10,
-      "lastSent": 1792373247272
+      "lastSent": 1792373247272,
+      "reminders": 1,
+      "lastReminded": 1792529052574
     },
     "web-19mdghi": {
       "status": "sent",
@@ -536,7 +538,9 @@
         "score": 60
       },
       "num": 11,
-      "lastSent": 1792391266121
+      "lastSent": 1792391266121,
+      "reminders": 1,
+      "lastReminded": 1792529052852
     },
     "web-jj04qi": {
       "status": "sent",
@@ -553,7 +557,9 @@
         "score": 55
       },
       "num": 12,
-      "lastSent": 1792391267157
+      "lastSent": 1792391267157,
+      "reminders": 1,
+      "lastReminded": 1792529053089
     },
     "web-1ci3crj": {
       "status": "sent",
@@ -894,6 +900,23 @@
       },
       "num": 32,
       "lastSent": 1792516964736
+    },
+    "web-1k1b0af": {
+      "status": "sent",
+      "firstSeen": 1792529042162,
+      "job": {
+        "id": "web-1k1b0af",
+        "title": "Christmas Job in Kingston upon Thames (with Salaries) - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Christmas jobs now hiring in Kingston upon Thames on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-christmas-jobs-l-kingston-upon-thames-jobs.html?vjk=69499c42cf5bfc88",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 55
+      },
+      "num": 33,
+      "lastSent": 1792529051362
     }
   }
 }
