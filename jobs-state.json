@@ -161,7 +161,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 74 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
+        "summary": "Find 74 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -191,7 +191,7 @@
         "title": "Seasonal jobs in Kingston upon Thames, Greater London - October 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 235 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 240 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -251,7 +251,7 @@
         "title": "Search 40,000+ jobs on CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 87546 live jobs on www. CV -library.co.uk.",
+        "summary": "Find 87379 live jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/jobs-kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -633,7 +633,9 @@
         "score": 60
       },
       "num": 16,
-      "lastSent": 1792417559566
+      "lastSent": 1792417559566,
+      "reminders": 1,
+      "lastReminded": 1792548714557
     },
     "web-1bfqrgm": {
       "status": "sent",
@@ -650,7 +652,9 @@
         "score": 58
       },
       "num": 17,
-      "lastSent": 1792417560659
+      "lastSent": 1792417560659,
+      "reminders": 1,
+      "lastReminded": 1792548715067
     },
     "web-1icbwml": {
       "status": "sent",
@@ -667,7 +671,9 @@
         "score": 57
       },
       "num": 18,
-      "lastSent": 1792417561076
+      "lastSent": 1792417561076,
+      "reminders": 1,
+      "lastReminded": 1792548715235
     },
     "web-1imhboz": {
       "status": "sent",
