@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 35,
+  "counter": 36,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -161,7 +161,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 74 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -176,7 +176,7 @@
         "title": "christmas retail jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 339 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 332 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+retail&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -398,7 +398,7 @@
         "title": "Weekend Work, Jobs in New Malden (with Salaries) | SimplyHired",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 506 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
+        "summary": "Discover 490 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=weekend&l=new%20malden",
         "pay": "See listing",
         "source": "web dork",
@@ -747,7 +747,9 @@
         "score": 52
       },
       "num": 22,
-      "lastSent": 1792438367926
+      "lastSent": 1792438367926,
+      "reminders": 1,
+      "lastReminded": 1792588631768
     },
     "web-17deg8f": {
       "status": "sent",
@@ -764,7 +766,9 @@
         "score": 50
       },
       "num": 23,
-      "lastSent": 1792438368105
+      "lastSent": 1792438368105,
+      "reminders": 1,
+      "lastReminded": 1792588632596
     },
     "web-11h1biv": {
       "status": "sent",
@@ -781,7 +785,9 @@
         "score": 46
       },
       "num": 24,
-      "lastSent": 1792438368260
+      "lastSent": 1792438368260,
+      "reminders": 1,
+      "lastReminded": 1792588633217
     },
     "web-15avz7z": {
       "status": "sent",
@@ -969,6 +975,23 @@
       },
       "num": 35,
       "lastSent": 1792569060074
+    },
+    "web-zz320r": {
+      "status": "sent",
+      "firstSeen": 1792588606770,
+      "job": {
+        "id": "web-zz320r",
+        "title": "Weekend jobs in New Malden, Greater London - Jooble",
+        "company": "uk.jooble.org",
+        "location": "Kingston area (web find)",
+        "summary": "Apply for Weekend jobs in New Malden , Greater London. Explore 333.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend jobs is easy to find. Start your new career right now!",
+        "url": "https://uk.jooble.org/jobs-weekend/New-Malden%2C-Greater-London",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 58
+      },
+      "num": 36,
+      "lastSent": 1792588630826
     }
   }
 }
