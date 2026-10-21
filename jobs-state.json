@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 34,
+  "counter": 35,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -41,7 +41,7 @@
         "title": "16 year old jobs in Kingston upon Thames, Greater London",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for 16 year old jobs in Kingston upon Thames , Greater London. Explore 353.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for 16 year old jobs in Kingston upon Thames , Greater London. Explore 336.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-16-year-old/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -56,7 +56,7 @@
         "title": "Urgent! 16 year old part time jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 324.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 329.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-16-year-old-part-time/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 348 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 339 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -690,7 +690,9 @@
         "score": 56
       },
       "num": 19,
-      "lastSent": 1792417561437
+      "lastSent": 1792417561437,
+      "reminders": 1,
+      "lastReminded": 1792569061282
     },
     "web-7zmj4l": {
       "status": "sent",
@@ -707,7 +709,9 @@
         "score": 56
       },
       "num": 20,
-      "lastSent": 1792417561933
+      "lastSent": 1792417561933,
+      "reminders": 1,
+      "lastReminded": 1792569061752
     },
     "web-1wtwos7": {
       "status": "sent",
@@ -724,7 +728,9 @@
         "score": 56
       },
       "num": 21,
-      "lastSent": 1792438367505
+      "lastSent": 1792438367505,
+      "reminders": 1,
+      "lastReminded": 1792569062171
     },
     "web-15thiue": {
       "status": "sent",
@@ -946,6 +952,23 @@
       },
       "num": 34,
       "lastSent": 1792539041196
+    },
+    "web-1oazfzj": {
+      "status": "sent",
+      "firstSeen": 1792569050952,
+      "job": {
+        "id": "web-1oazfzj",
+        "title": "Christmas Customer Assistant - Operations - Kingston » Kingston-upon ...",
+        "company": "jobs.marksandspencer.com",
+        "location": "Kingston area (web find)",
+        "summary": "Christmas Customer Assistant - Operations - Kingston In Store Kingston Kingston-upon-thames , Greater London Temporary Contract end date: 26/12/2026 £14.74 p/h Closing date: 23rd October 2026",
+        "url": "https://jobs.marksandspencer.com/job-search/in-store/kingston-upon-thames-greater-london/christmas-customer-assistant-operations-kingston/300008385438351",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 67
+      },
+      "num": 35,
+      "lastSent": 1792569060074
     }
   }
 }
