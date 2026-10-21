@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 41,
+  "counter": 46,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -233,10 +233,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-vf3iqp",
-        "title": "Kingston Upon Thames jobs - October 2026 | CV Library",
+        "title": "Search 40,000+ jobs on CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 124 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
+        "summary": "Keep it simple: Use basic keywords and straightforward job titles. Instead of \"senior customer care manager call centre,\" try \"customer care manager.\" Skip the details: Not all jobs have a specified location or salary. Try removing these search terms.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -281,7 +281,7 @@
         "title": "Jobs in Kingston upon Thames, Greater London - CV-Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 443 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 444 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/part-time-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -861,7 +861,9 @@
         "score": 46
       },
       "num": 28,
-      "lastSent": 1792451420450
+      "lastSent": 1792451420450,
+      "reminders": 1,
+      "lastReminded": 1792619506793
     },
     "web-1q0sf8r": {
       "status": "sent",
@@ -878,7 +880,9 @@
         "score": 66
       },
       "num": 29,
-      "lastSent": 1792451420667
+      "lastSent": 1792451420667,
+      "reminders": 1,
+      "lastReminded": 1792619507041
     },
     "web-kr8jbp": {
       "status": "sent",
@@ -895,7 +899,9 @@
         "score": 52
       },
       "num": 30,
-      "lastSent": 1792451420871
+      "lastSent": 1792451420871,
+      "reminders": 1,
+      "lastReminded": 1792619507396
     },
     "web-1hexghs": {
       "status": "sent",
@@ -922,7 +928,7 @@
         "title": "Painter And Decorator jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 23 live Painter And Decorator jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 24 live Painter And Decorator jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/painter-and-decorator-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1085,7 +1091,7 @@
       "lastSent": 1792606152663
     },
     "web-68oynw": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792606115029,
       "job": {
         "id": "web-68oynw",
@@ -1097,10 +1103,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 65
-      }
+      },
+      "num": 42,
+      "lastSent": 1792619504644
     },
     "web-5gn6y4": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792606115029,
       "job": {
         "id": "web-5gn6y4",
@@ -1112,10 +1120,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 65
-      }
+      },
+      "num": 43,
+      "lastSent": 1792619505780
     },
     "web-15jtd6g": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792606115029,
       "job": {
         "id": "web-15jtd6g",
@@ -1127,10 +1137,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 65
-      }
+      },
+      "num": 44,
+      "lastSent": 1792619506077
     },
     "web-14t6i4u": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792606115029,
       "job": {
         "id": "web-14t6i4u",
@@ -1142,10 +1154,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 65
-      }
+      },
+      "num": 45,
+      "lastSent": 1792619506300
     },
     "web-da2p64": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1792606115029,
       "job": {
         "id": "web-da2p64",
@@ -1157,7 +1171,9 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 61
-      }
+      },
+      "num": 46,
+      "lastSent": 1792619506591
     },
     "web-wpsi6d": {
       "status": "new",
