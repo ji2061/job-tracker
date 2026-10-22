@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 47,
+  "counter": 49,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -161,7 +161,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
+        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -191,7 +191,7 @@
         "title": "Seasonal jobs in Kingston upon Thames, Greater London - October 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 237 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 247 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -349,8 +349,8 @@
       },
       "num": 1,
       "lastSent": 1792367604075,
-      "reminders": 1,
-      "lastReminded": 1792461421329
+      "reminders": 2,
+      "lastReminded": 1792645540994
     },
     "web-bsplnw": {
       "status": "sent",
@@ -368,8 +368,8 @@
       },
       "num": 2,
       "lastSent": 1792367604253,
-      "reminders": 1,
-      "lastReminded": 1792461422212
+      "reminders": 2,
+      "lastReminded": 1792645541349
     },
     "web-1489evd": {
       "status": "sent",
@@ -889,14 +889,14 @@
       "firstSeen": 1792451405050,
       "job": {
         "id": "web-kr8jbp",
-        "title": "Temporary jobs in Kingston upon Thames - CV-Library.co.uk",
+        "title": "Jobs in Kingston upon Thames, Greater London - CV-Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 2,295 live Temporary jobs in Kingston upon Thames on CV -Library. 523 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "summary": "Find 2495 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/temporary-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
-        "score": 52
+        "score": 50
       },
       "num": 30,
       "lastSent": 1792451420871,
@@ -975,7 +975,9 @@
         "score": 58
       },
       "num": 34,
-      "lastSent": 1792539041196
+      "lastSent": 1792539041196,
+      "reminders": 1,
+      "lastReminded": 1792645540403
     },
     "web-1oazfzj": {
       "status": "sent",
@@ -1197,6 +1199,40 @@
       },
       "num": 47,
       "lastSent": 1792628246298
+    },
+    "web-19akmeh": {
+      "status": "sent",
+      "firstSeen": 1792645528335,
+      "job": {
+        "id": "web-19akmeh",
+        "title": "Entry Level jobs in Kingston upon Thames, Greater London - July 2026 ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 13 live Entry Level jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/entry-level-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 48,
+      "lastSent": 1792645538908
+    },
+    "web-1w5m9r0": {
+      "status": "sent",
+      "firstSeen": 1792645528335,
+      "job": {
+        "id": "web-1w5m9r0",
+        "title": "Permanent jobs in Kingston upon Thames - CV-Library.co.uk",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 17,937 live Permanent jobs in Kingston upon Thames on CV -Library. 2,923 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "url": "https://www.cv-library.co.uk/permanent-jobs-in-kingston-upon-thames?expand_distance=1&gclid=cj0kcqia3&s=103664",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 49,
+      "lastSent": 1792645540057
     }
   }
 }
