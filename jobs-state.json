@@ -161,7 +161,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -387,8 +387,8 @@
       },
       "num": 3,
       "lastSent": 1792367604429,
-      "reminders": 1,
-      "lastReminded": 1792461422469
+      "reminders": 2,
+      "lastReminded": 1792664466857
     },
     "web-6ycu75": {
       "status": "sent",
@@ -398,7 +398,7 @@
         "title": "Weekend Work, Jobs in New Malden (with Salaries) | SimplyHired",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 498 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
+        "summary": "Discover 492 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=weekend&l=new%20malden",
         "pay": "See listing",
         "source": "web dork",
@@ -406,8 +406,8 @@
       },
       "num": 4,
       "lastSent": 1792367604622,
-      "reminders": 1,
-      "lastReminded": 1792498950808
+      "reminders": 2,
+      "lastReminded": 1792664467369
     },
     "web-1fe4esx": {
       "status": "sent",
@@ -994,7 +994,9 @@
         "score": 67
       },
       "num": 35,
-      "lastSent": 1792569060074
+      "lastSent": 1792569060074,
+      "reminders": 1,
+      "lastReminded": 1792664465344
     },
     "web-zz320r": {
       "status": "sent",
