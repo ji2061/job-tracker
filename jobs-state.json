@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 53,
+  "counter": 54,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -161,7 +161,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
+        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -191,7 +191,7 @@
         "title": "Seasonal jobs in Kingston upon Thames, Greater London - October 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 247 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 246 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -296,11 +296,11 @@
         "title": "Kingston jobs - October 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "In this permanent position, you will cover a designated area across Kingston upon Thames and the surrounding area. You will be responsible for carrying out general plumbing repairs, maintenance, and servicing within customers&#x27; homes and private residential properties....",
+        "summary": "Plumber - Kingston Posted6 days ago by Howells Solutions Limited Kingston upon Thames , London £25 - £26 per hour Temporary Easy Apply",
         "url": "https://www.cv-library.co.uk/kingston-jobs",
         "pay": "See listing",
         "source": "web dork",
-        "score": 50
+        "score": 52
       }
     },
     "web-9vw1qv": {
@@ -501,8 +501,8 @@
       },
       "num": 9,
       "lastSent": 1792373247151,
-      "reminders": 1,
-      "lastReminded": 1792516965801
+      "reminders": 2,
+      "lastReminded": 1792771192860
     },
     "web-1ejiz15": {
       "status": "sent",
@@ -520,8 +520,8 @@
       },
       "num": 10,
       "lastSent": 1792373247272,
-      "reminders": 1,
-      "lastReminded": 1792529052574
+      "reminders": 2,
+      "lastReminded": 1792771193343
     },
     "web-19mdghi": {
       "status": "sent",
@@ -539,8 +539,8 @@
       },
       "num": 11,
       "lastSent": 1792391266121,
-      "reminders": 1,
-      "lastReminded": 1792529052852
+      "reminders": 2,
+      "lastReminded": 1792771193612
     },
     "web-jj04qi": {
       "status": "sent",
@@ -1331,6 +1331,23 @@
       },
       "num": 53,
       "lastSent": 1792756349906
+    },
+    "web-1nsinyi": {
+      "status": "sent",
+      "firstSeen": 1792771181823,
+      "job": {
+        "id": "web-1nsinyi",
+        "title": "Apply For A Job On A Weekend jobs in Kingston upon Thames",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 222 live Apply For A Job On A Weekend jobs in Kingston upon Thames on CV -Library. 122 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "url": "https://www.cv-library.co.uk/apply-for-a-job-on-a-weekend-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 56
+      },
+      "num": 54,
+      "lastSent": 1792771192214
     }
   }
 }
