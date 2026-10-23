@@ -1,7 +1,7 @@
 {
-  "updatedAt": "22 Oct 2026",
+  "updatedAt": "23 Oct 2026",
   "location": "KT1 3HZ · bus-only · 16+",
-  "note": "No keys set (REED_API_KEY, ADZUNA_APP_ID + ADZUNA_APP_KEY) - add them as GitHub repo secrets for live results.",
+  "note": "Tonight's scrape found nothing new - showing previous results.",
   "jobs": [
     {
       "id": "web-1x5vi1l",
