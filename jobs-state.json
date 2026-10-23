@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 52,
+  "counter": 53,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -463,8 +463,8 @@
       },
       "num": 7,
       "lastSent": 1792373246897,
-      "reminders": 1,
-      "lastReminded": 1792516965461
+      "reminders": 2,
+      "lastReminded": 1792756353733
     },
     "web-1hv9dan": {
       "status": "sent",
@@ -482,8 +482,8 @@
       },
       "num": 8,
       "lastSent": 1792373247025,
-      "reminders": 1,
-      "lastReminded": 1792516965622
+      "reminders": 2,
+      "lastReminded": 1792756355747
     },
     "web-37vb0x": {
       "status": "sent",
@@ -1260,7 +1260,9 @@
         "score": 50
       },
       "num": 49,
-      "lastSent": 1792645540057
+      "lastSent": 1792645540057,
+      "reminders": 1,
+      "lastReminded": 1792756350542
     },
     "web-6hkuqn": {
       "status": "sent",
@@ -1312,6 +1314,23 @@
       },
       "num": 52,
       "lastSent": 1792735656492
+    },
+    "web-ong039": {
+      "status": "sent",
+      "firstSeen": 1792756338712,
+      "job": {
+        "id": "web-ong039",
+        "title": "Part time Work, Jobs in New Malden (with Salaries) | SimplyHired",
+        "company": "simplyhired.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Discover 13419 Part time job opportunities in New Malden . Apply today to advance your career with top employers.",
+        "url": "https://www.simplyhired.co.uk/search?q=part-time&l=new+malden",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 56
+      },
+      "num": 53,
+      "lastSent": 1792756349906
     }
   }
 }
