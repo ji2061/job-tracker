@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 60,
+  "counter": 61,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -664,7 +664,7 @@
         "title": "Christmas Temporary Job in Kingston upon Thames (with Salaries ... - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "352 Christmas Temporary jobs available in Kingston upon Thames on Indeed.com. Apply to Pandora Jewelry, Reiss, RITUALS COSMETICS and more companies!",
+        "summary": "334 Christmas Temporary jobs available in Kingston upon Thames on Indeed.com. Apply to Pandora Jewelry, Reiss, RITUALS COSMETICS and more companies!",
         "url": "https://uk.indeed.com/q-christmas-temporary-l-kingston-upon-thames-jobs.html?vjk=318d48d1f18336ff",
         "pay": "See listing",
         "source": "web dork",
@@ -900,8 +900,8 @@
       },
       "num": 30,
       "lastSent": 1792451420871,
-      "reminders": 1,
-      "lastReminded": 1792619507396
+      "reminders": 2,
+      "lastReminded": 1792879322909
     },
     "web-1hexghs": {
       "status": "sent",
@@ -919,8 +919,8 @@
       },
       "num": 31,
       "lastSent": 1792498949730,
-      "reminders": 1,
-      "lastReminded": 1792628248961
+      "reminders": 2,
+      "lastReminded": 1792879323116
     },
     "web-18zlzh1": {
       "status": "sent",
@@ -938,8 +938,8 @@
       },
       "num": 32,
       "lastSent": 1792516964736,
-      "reminders": 1,
-      "lastReminded": 1792628249099
+      "reminders": 2,
+      "lastReminded": 1792879323296
     },
     "web-1k1b0af": {
       "status": "sent",
@@ -1462,6 +1462,23 @@
       },
       "num": 60,
       "lastSent": 1792863711685
+    },
+    "web-f7yql1": {
+      "status": "sent",
+      "firstSeen": 1792879313076,
+      "job": {
+        "id": "web-f7yql1",
+        "title": "91 Best weekend Jobs in New Malden (September 2026) | JOB TODAY",
+        "company": "jobtoday.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to 91 weekend jobs available and hiring now in New Malden . New weekend vacancies are added daily on JOB TODAY. Get set up in seconds & start chatting with employers in minutes!",
+        "url": "https://jobtoday.com/gb/jobs-weekend/new-malden",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 56
+      },
+      "num": 61,
+      "lastSent": 1792879322061
     }
   }
 }
