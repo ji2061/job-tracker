@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 58,
+  "counter": 59,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -161,7 +161,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
+        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -281,7 +281,7 @@
         "title": "Jobs in Kingston upon Thames, Greater London - CV-Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 444 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 448 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/part-time-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -296,11 +296,11 @@
         "title": "Kingston jobs - October 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Plumber - Kingston Posted6 days ago by Howells Solutions Limited Kingston upon Thames , London £25 - £26 per hour Temporary Easy Apply",
+        "summary": "In this permanent position, you will cover a designated area across Kingston upon Thames and the surrounding area. You will be responsible for carrying out general plumbing repairs, maintenance, and servicing within customers&#x27; homes and private residential properties....",
         "url": "https://www.cv-library.co.uk/kingston-jobs",
         "pay": "See listing",
         "source": "web dork",
-        "score": 52
+        "score": 50
       }
     },
     "web-9vw1qv": {
@@ -767,8 +767,8 @@
       },
       "num": 23,
       "lastSent": 1792438368105,
-      "reminders": 1,
-      "lastReminded": 1792588632596
+      "reminders": 2,
+      "lastReminded": 1792840779182
     },
     "web-11h1biv": {
       "status": "sent",
@@ -1298,7 +1298,9 @@
         "score": 58
       },
       "num": 51,
-      "lastSent": 1792735656016
+      "lastSent": 1792735656016,
+      "reminders": 1,
+      "lastReminded": 1792840778861
     },
     "web-1g02bce": {
       "status": "sent",
@@ -1315,7 +1317,9 @@
         "score": 56
       },
       "num": 52,
-      "lastSent": 1792735656492
+      "lastSent": 1792735656492,
+      "reminders": 1,
+      "lastReminded": 1792840779021
     },
     "web-ong039": {
       "status": "sent",
@@ -1418,6 +1422,23 @@
       },
       "num": 58,
       "lastSent": 1792821773840
+    },
+    "web-c08s5y": {
+      "status": "sent",
+      "firstSeen": 1792840769897,
+      "job": {
+        "id": "web-c08s5y",
+        "title": "Job Roles From Home jobs in Kingston upon Thames, Greater London ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 1171 live Job Roles From Home jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/job-roles-from-home-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 59,
+      "lastSent": 1792840778099
     }
   }
 }
