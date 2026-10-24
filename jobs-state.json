@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 59,
+  "counter": 60,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -26,7 +26,7 @@
         "title": "Christmas grotto elf jobs in Kingston upon Thames, Greater London",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 434.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 360.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-christmas-grotto-elf/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -824,8 +824,8 @@
       },
       "num": 26,
       "lastSent": 1792451418990,
-      "reminders": 1,
-      "lastReminded": 1792606153309
+      "reminders": 2,
+      "lastReminded": 1792863712383
     },
     "web-l893z7": {
       "status": "sent",
@@ -843,8 +843,8 @@
       },
       "num": 27,
       "lastSent": 1792451420181,
-      "reminders": 1,
-      "lastReminded": 1792606153642
+      "reminders": 2,
+      "lastReminded": 1792863712507
     },
     "web-6zsmy7": {
       "status": "sent",
@@ -968,7 +968,7 @@
         "title": "Weekend work jobs in New Malden, Greater London - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Weekend work jobs in New Malden , Greater London. Explore 338.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend work jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Weekend work jobs in New Malden , Greater London. Explore 434.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend work jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-weekend-work/New-Malden%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -1355,7 +1355,9 @@
         "score": 56
       },
       "num": 54,
-      "lastSent": 1792771192214
+      "lastSent": 1792771192214,
+      "reminders": 1,
+      "lastReminded": 1792863712182
     },
     "web-1q52bl4": {
       "status": "sent",
@@ -1441,6 +1443,23 @@
       },
       "num": 59,
       "lastSent": 1792840778099
+    },
+    "web-138raal": {
+      "status": "sent",
+      "firstSeen": 1792863702834,
+      "job": {
+        "id": "web-138raal",
+        "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 74 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
+        "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames?jobId=225740962&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M5D4G6JPSEC1T7CWZ676WFFQ",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 60,
+      "lastSent": 1792863711685
     }
   }
 }
