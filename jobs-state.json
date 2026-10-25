@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 62,
+  "counter": 63,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -11,7 +11,7 @@
         "title": "Temporary christmas jobs in Kingston upon Thames, Greater London",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Temporary christmas jobs in Kingston upon Thames , Greater London. Explore 363.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Temporary christmas jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Temporary christmas jobs in Kingston upon Thames , Greater London. Explore 408.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Temporary christmas jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-temporary-christmas/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -41,7 +41,7 @@
         "title": "16 year old jobs in Kingston upon Thames, Greater London",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for 16 year old jobs in Kingston upon Thames , Greater London. Explore 363.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for 16 year old jobs in Kingston upon Thames , Greater London. Explore 408.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-16-year-old/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 326 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 322 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -116,7 +116,7 @@
         "title": "16 year old part time jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 33 16 year old part time job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 37 16 year old part time job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=16+year+old+part+time&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -406,8 +406,8 @@
       },
       "num": 4,
       "lastSent": 1792367604622,
-      "reminders": 2,
-      "lastReminded": 1792664467369
+      "reminders": 3,
+      "lastReminded": 1792936752028
     },
     "web-1fe4esx": {
       "status": "sent",
@@ -873,7 +873,7 @@
         "title": "part time 16 year old jobs in kingston upon thames, eng",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 37 Part time 16 year old job opportunities in Kingston Upon Thames , Eng. Apply today to advance your career with top employers.",
+        "summary": "Discover 45 Part time 16 year old job opportunities in Kingston Upon Thames , Eng. Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=part+time+16+year+old&l=kingston+upon+thames%2C+eng",
         "pay": "See listing",
         "source": "web dork",
@@ -1014,8 +1014,8 @@
       },
       "num": 36,
       "lastSent": 1792588630826,
-      "reminders": 1,
-      "lastReminded": 1792682704465
+      "reminders": 2,
+      "lastReminded": 1792936752161
     },
     "web-bbzrmu": {
       "status": "sent",
@@ -1450,7 +1450,9 @@
         "score": 50
       },
       "num": 59,
-      "lastSent": 1792840778099
+      "lastSent": 1792840778099,
+      "reminders": 1,
+      "lastReminded": 1792936751905
     },
     "web-138raal": {
       "status": "sent",
@@ -1502,6 +1504,23 @@
       },
       "num": 62,
       "lastSent": 1792920845800
+    },
+    "web-xxwtfu": {
+      "status": "sent",
+      "firstSeen": 1792936743225,
+      "job": {
+        "id": "web-xxwtfu",
+        "title": "Teens weekend jobs in Kingston upon Thames, Greater London",
+        "company": "uk.jooble.org",
+        "location": "Kingston area (web find)",
+        "summary": "Apply for Teens weekend jobs in Kingston upon Thames , Greater London. Explore 305.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Teens weekend jobs is easy to find. Start your new career right now!",
+        "url": "https://uk.jooble.org/jobs-teens-weekend/Kingston-upon-Thames%2C-Greater-London",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 58
+      },
+      "num": 63,
+      "lastSent": 1792936751234
     }
   }
 }
