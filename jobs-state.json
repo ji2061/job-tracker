@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 61,
+  "counter": 62,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -161,7 +161,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 68 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
+        "summary": "Find 68 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -191,7 +191,7 @@
         "title": "Seasonal jobs in Kingston upon Thames, Greater London - October 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 246 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 239 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -281,7 +281,7 @@
         "title": "Jobs in Kingston upon Thames, Greater London - CV-Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 448 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 449 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/part-time-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -387,8 +387,8 @@
       },
       "num": 3,
       "lastSent": 1792367604429,
-      "reminders": 2,
-      "lastReminded": 1792664466857
+      "reminders": 3,
+      "lastReminded": 1792920847317
     },
     "web-6ycu75": {
       "status": "sent",
@@ -1412,7 +1412,9 @@
         "score": 57
       },
       "num": 57,
-      "lastSent": 1792821773037
+      "lastSent": 1792821773037,
+      "reminders": 1,
+      "lastReminded": 1792920846844
     },
     "web-1qp6fpe": {
       "status": "sent",
@@ -1429,7 +1431,9 @@
         "score": 56
       },
       "num": 58,
-      "lastSent": 1792821773840
+      "lastSent": 1792821773840,
+      "reminders": 1,
+      "lastReminded": 1792920847092
     },
     "web-c08s5y": {
       "status": "sent",
@@ -1481,6 +1485,23 @@
       },
       "num": 61,
       "lastSent": 1792879322061
+    },
+    "web-xxazqc": {
+      "status": "sent",
+      "firstSeen": 1792920836640,
+      "job": {
+        "id": "web-xxazqc",
+        "title": "Weekend Only jobs in Kingston upon Thames - CV-Library",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 154 live Weekend Only jobs in Kingston upon Thames on CV -Library. 96 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "url": "https://www.cv-library.co.uk/weekend-only-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 56
+      },
+      "num": 62,
+      "lastSent": 1792920845800
     }
   }
 }
