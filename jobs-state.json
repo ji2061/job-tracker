@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 63,
+  "counter": 64,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -425,8 +425,8 @@
       },
       "num": 5,
       "lastSent": 1792367604837,
-      "reminders": 2,
-      "lastReminded": 1792682705757
+      "reminders": 3,
+      "lastReminded": 1792949061341
     },
     "web-11ect3s": {
       "status": "sent",
@@ -444,8 +444,8 @@
       },
       "num": 6,
       "lastSent": 1792373246263,
-      "reminders": 2,
-      "lastReminded": 1792682706021
+      "reminders": 3,
+      "lastReminded": 1792949061517
     },
     "web-3346do": {
       "status": "sent",
@@ -1033,8 +1033,8 @@
       },
       "num": 37,
       "lastSent": 1792606150581,
-      "reminders": 1,
-      "lastReminded": 1792696706024
+      "reminders": 2,
+      "lastReminded": 1792949061699
     },
     "web-1c9vli4": {
       "status": "sent",
@@ -1521,6 +1521,23 @@
       },
       "num": 63,
       "lastSent": 1792936751234
+    },
+    "web-na9gvz": {
+      "status": "sent",
+      "firstSeen": 1792949051207,
+      "job": {
+        "id": "web-na9gvz",
+        "title": "Council jobs in Kingston upon Thames - CV-Library.co.uk",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 88 live Council jobs in Kingston upon Thames on CV -Library. 30 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "url": "https://www.cv-library.co.uk/council-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 64,
+      "lastSent": 1792949060721
     }
   }
 }
