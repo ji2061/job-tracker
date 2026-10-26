@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 71,
+  "counter": 73,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -463,8 +463,8 @@
       },
       "num": 7,
       "lastSent": 1792373246897,
-      "reminders": 2,
-      "lastReminded": 1792756353733
+      "reminders": 3,
+      "lastReminded": 1793035753625
     },
     "web-1hv9dan": {
       "status": "sent",
@@ -1500,7 +1500,7 @@
         "title": "Weekend Only jobs in Kingston upon Thames, Greater London - October ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 100 live Weekend Only jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 99 live Weekend Only jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/weekend-only-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1526,7 +1526,9 @@
         "score": 58
       },
       "num": 63,
-      "lastSent": 1792936751234
+      "lastSent": 1792936751234,
+      "reminders": 1,
+      "lastReminded": 1793035753111
     },
     "web-na9gvz": {
       "status": "sent",
@@ -1543,7 +1545,9 @@
         "score": 50
       },
       "num": 64,
-      "lastSent": 1792949060721
+      "lastSent": 1792949060721,
+      "reminders": 1,
+      "lastReminded": 1793035753356
     },
     "web-1xc2wuc": {
       "status": "sent",
@@ -1618,10 +1622,10 @@
       "firstSeen": 1793013531590,
       "job": {
         "id": "web-ygklp4",
-        "title": "Full Time jobs in Kingston upon Thames, Greater London - September 2026 ...",
+        "title": "Full Time jobs in Kingston upon Thames, Greater London - October 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 2365 live Full Time jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 2604 live Full Time jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/permanent-full-time-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1663,6 +1667,40 @@
       },
       "num": 71,
       "lastSent": 1793013541920
+    },
+    "web-g4p1b4": {
+      "status": "sent",
+      "firstSeen": 1793035743515,
+      "job": {
+        "id": "web-g4p1b4",
+        "title": "Clinical Fellow in Psychiatry - Maple Ward",
+        "company": "healthjobsuk.com",
+        "location": "Kingston area (web find)",
+        "summary": "Main area General Adult Psychiatry - Inpatient Ward Grade NHS Medical & Dental: Junior Clinical Fellow Contract 12 months (12 months Fixed Term Contract) Hours Full time - 40 hours per week (No OOH on call duty. Day time on call duty mandatory.) Job ref 294-MEDI-0517-EO Employer South West London and St George&#x27;s Mental Health NHS Trust Employer type NHS Site Maple Ward, TOLWORTH Hospital Town ...",
+        "url": "https://www.healthjobsuk.com/job/UK/London/Tolworth/South_West_London_St_Georges_Mental_Health_NHS_Trust/Inpatient_Services/Inpatient_Services-v8392403",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 52
+      },
+      "num": 72,
+      "lastSent": 1793035752504
+    },
+    "web-neczel": {
+      "status": "sent",
+      "firstSeen": 1793035743515,
+      "job": {
+        "id": "web-neczel",
+        "title": "Restaurant jobs in Kingston upon Thames - CV-Library.co.uk",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 46 live Restaurant jobs in Kingston upon Thames on CV -Library. 33 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "url": "https://www.cv-library.co.uk/restaurant-jobs-in-kingston",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 73,
+      "lastSent": 1793035752936
     }
   }
 }
