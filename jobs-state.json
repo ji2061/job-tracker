@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 73,
+  "counter": 74,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -482,8 +482,8 @@
       },
       "num": 8,
       "lastSent": 1792373247025,
-      "reminders": 2,
-      "lastReminded": 1792756355747
+      "reminders": 3,
+      "lastReminded": 1793051161031
     },
     "web-37vb0x": {
       "status": "sent",
@@ -501,8 +501,8 @@
       },
       "num": 9,
       "lastSent": 1792373247151,
-      "reminders": 2,
-      "lastReminded": 1792771192860
+      "reminders": 3,
+      "lastReminded": 1793051161243
     },
     "web-1ejiz15": {
       "status": "sent",
@@ -892,7 +892,7 @@
         "title": "Jobs in Kingston upon Thames, Greater London - CV-Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 2495 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 2403 live jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/temporary-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1564,7 +1564,9 @@
         "score": 66
       },
       "num": 65,
-      "lastSent": 1792957682025
+      "lastSent": 1792957682025,
+      "reminders": 1,
+      "lastReminded": 1793051160786
     },
     "web-1nsqsow": {
       "status": "sent",
@@ -1701,6 +1703,23 @@
       },
       "num": 73,
       "lastSent": 1793035752936
+    },
+    "web-1i2at7u": {
+      "status": "sent",
+      "firstSeen": 1793051147495,
+      "job": {
+        "id": "web-1i2at7u",
+        "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 68 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames?jobId=225752160&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M5PT7K497E4MXN279J9KCHD0",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 74,
+      "lastSent": 1793051159695
     }
   }
 }
