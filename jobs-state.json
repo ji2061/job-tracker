@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 68,
+  "counter": 71,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -191,7 +191,7 @@
         "title": "Seasonal jobs in Kingston upon Thames, Greater London - October 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 239 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 238 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1242,8 +1242,8 @@
       },
       "num": 48,
       "lastSent": 1792645538908,
-      "reminders": 1,
-      "lastReminded": 1792735657026
+      "reminders": 2,
+      "lastReminded": 1793013542444
     },
     "web-1w5m9r0": {
       "status": "sent",
@@ -1261,8 +1261,8 @@
       },
       "num": 49,
       "lastSent": 1792645540057,
-      "reminders": 1,
-      "lastReminded": 1792756350542
+      "reminders": 2,
+      "lastReminded": 1793013542672
     },
     "web-6hkuqn": {
       "status": "sent",
@@ -1497,7 +1497,7 @@
       "firstSeen": 1792920836640,
       "job": {
         "id": "web-xxazqc",
-        "title": "Weekend Only jobs in Kingston upon Thames, Greater London",
+        "title": "Weekend Only jobs in Kingston upon Thames, Greater London - October ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
         "summary": "Find 100 live Weekend Only jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
@@ -1507,7 +1507,9 @@
         "score": 56
       },
       "num": 62,
-      "lastSent": 1792920845800
+      "lastSent": 1792920845800,
+      "reminders": 1,
+      "lastReminded": 1793013542224
     },
     "web-xxwtfu": {
       "status": "sent",
@@ -1610,6 +1612,57 @@
       },
       "num": 68,
       "lastSent": 1792974615466
+    },
+    "web-ygklp4": {
+      "status": "sent",
+      "firstSeen": 1793013531590,
+      "job": {
+        "id": "web-ygklp4",
+        "title": "Full Time jobs in Kingston upon Thames, Greater London - September 2026 ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 2365 live Full Time jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/permanent-full-time-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 69,
+      "lastSent": 1793013541248
+    },
+    "web-1q4qpdg": {
+      "status": "sent",
+      "firstSeen": 1793013531590,
+      "job": {
+        "id": "web-1q4qpdg",
+        "title": "Estate Agent jobs in Kingston upon Thames, Greater London - September ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 63 live Estate Agent jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/estate-agent-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 70,
+      "lastSent": 1793013541706
+    },
+    "web-1g4odwr": {
+      "status": "sent",
+      "firstSeen": 1793013531590,
+      "job": {
+        "id": "web-1g4odwr",
+        "title": "Receptionist jobs in Kingston upon Thames, Greater London - September ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "The 128 receptionist jobs in Kingston upon Thames , Greater London can cover very different workplaces. You might be greeting visitors in a corporate office, booking patients into a healthcare practice, checking guests into a hotel or combining reception with general office administration.",
+        "url": "https://www.cv-library.co.uk/receptionist-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 71,
+      "lastSent": 1793013541920
     }
   }
 }
