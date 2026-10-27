@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 80,
+  "counter": 82,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -41,7 +41,7 @@
         "title": "16 year old jobs in Kingston upon Thames, Greater London",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for 16 year old jobs in Kingston upon Thames , Greater London. Explore 323.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for 16 year old jobs in Kingston upon Thames , Greater London. Explore 338.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-16-year-old/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -56,7 +56,7 @@
         "title": "Urgent! 16 year old part time jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 323.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 338.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-16-year-old-part-time/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -615,8 +615,8 @@
       },
       "num": 15,
       "lastSent": 1792391267745,
-      "reminders": 2,
-      "lastReminded": 1792795316748
+      "reminders": 3,
+      "lastReminded": 1793134930591
     },
     "web-1d827bi": {
       "status": "sent",
@@ -1697,7 +1697,9 @@
         "score": 52
       },
       "num": 72,
-      "lastSent": 1793035752504
+      "lastSent": 1793035752504,
+      "reminders": 1,
+      "lastReminded": 1793134930074
     },
     "web-neczel": {
       "status": "sent",
@@ -1714,7 +1716,9 @@
         "score": 50
       },
       "num": 73,
-      "lastSent": 1793035752936
+      "lastSent": 1793035752936,
+      "reminders": 1,
+      "lastReminded": 1793134930353
     },
     "web-1i2at7u": {
       "status": "sent",
@@ -1836,7 +1840,7 @@
       "lastSent": 1793119489122
     },
     "web-w98pvy": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1793119478269,
       "job": {
         "id": "web-w98pvy",
@@ -1848,7 +1852,26 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 40
-      }
+      },
+      "num": 81,
+      "lastSent": 1793134929144
+    },
+    "web-4a3n75": {
+      "status": "sent",
+      "firstSeen": 1793134918804,
+      "job": {
+        "id": "web-4a3n75",
+        "title": "Part Time Weekend Jobs in Kingston Upon Thames - Totaljobs",
+        "company": "totaljobs.com",
+        "location": "Kingston area (web find)",
+        "summary": "1471 Part Time Weekend jobs in Kingston Upon Thames on totaljobs. Get instant job matches for companies hiring now for Part Time Weekend jobs near Kingston Upon Thames from Caring, Support Work to Advising and more. We&#x27;ll get you noticed.",
+        "url": "https://www.totaljobs.com/jobs/part-time/weekend/in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 56
+      },
+      "num": 82,
+      "lastSent": 1793134929854
     }
   }
 }
