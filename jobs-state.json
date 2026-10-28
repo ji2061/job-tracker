@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 82,
+  "counter": 83,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -26,7 +26,7 @@
         "title": "Christmas grotto elf jobs in Kingston upon Thames, Greater London",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 374.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 133.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-christmas-grotto-elf/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 297 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 309 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -128,10 +128,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-1ark9q2",
-        "title": "326 Christmas temp jobs in Kingston upon Thames, England",
+        "title": "302 Christmas temp jobs in Kingston upon Thames, England",
         "company": "glassdoor.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 326 open jobs for Christmas temp in Kingston upon Thames .",
+        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 302 open jobs for Christmas temp in Kingston upon Thames .",
         "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-christmas-temp-jobs-SRCH_IL.0,20_IC3288244_KO21,35.htm",
         "pay": "See listing",
         "source": "web dork",
@@ -176,7 +176,7 @@
         "title": "christmas retail jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 281 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 292 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+retail&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -672,8 +672,8 @@
       },
       "num": 18,
       "lastSent": 1792417561076,
-      "reminders": 2,
-      "lastReminded": 1792804353945
+      "reminders": 3,
+      "lastReminded": 1793168681729
     },
     "web-1imhboz": {
       "status": "sent",
@@ -691,8 +691,8 @@
       },
       "num": 19,
       "lastSent": 1792417561437,
-      "reminders": 2,
-      "lastReminded": 1792804354090
+      "reminders": 3,
+      "lastReminded": 1793168681910
     },
     "web-7zmj4l": {
       "status": "sent",
@@ -1754,7 +1754,9 @@
         "score": 73
       },
       "num": 75,
-      "lastSent": 1793062697165
+      "lastSent": 1793062697165,
+      "reminders": 1,
+      "lastReminded": 1793168681548
     },
     "web-kmyu8d": {
       "status": "sent",
@@ -1874,6 +1876,23 @@
       },
       "num": 82,
       "lastSent": 1793134929854
+    },
+    "web-1k88afo": {
+      "status": "sent",
+      "firstSeen": 1793168658387,
+      "job": {
+        "id": "web-1k88afo",
+        "title": "0 Part Time Jobs For 16 Years Olds jobs in Kingston Upon Thames - Totaljobs",
+        "company": "totaljobs.com",
+        "location": "Kingston area (web find)",
+        "summary": "Part Time Jobs For 16 Years Olds jobs in Kingston Upon Thames on totaljobs. Find your next Part Time Jobs For 16 Years Olds job in Kingston Upon Thames and apply today. We&#x27;ll get you noticed.",
+        "url": "https://www.totaljobs.com/jobs/part-time/jobs-for-16-years-olds/in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 66
+      },
+      "num": 83,
+      "lastSent": 1793168680407
     }
   }
 }
