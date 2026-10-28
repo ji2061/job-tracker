@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 83,
+  "counter": 84,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -56,7 +56,7 @@
         "title": "Urgent! 16 year old part time jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 133.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 353.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-16-year-old-part-time/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 309 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 306 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -326,7 +326,7 @@
         "title": "Lidl Job Search: Find your new job here!",
         "company": "careers.lidl.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Legal Consultant 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Experienced £52,800* up to £82,500* per annum",
+        "summary": "Estate and Retail Operations Graduate Programme 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Student & Graduate £40,000 per annum*",
         "url": "https://careers.lidl.co.uk/jobsearch?page=1&sort_field=location.distance&sort_order=asc&baseSearch=%7B%22location%22:%7B%22midPointName%22:%22Surbiton,+Greater+London%22,%22latitude%22:51.3763,%22longitude%22:-0.2791,%22max_distance%22:%222%22%7D%7D",
         "pay": "See listing",
         "source": "web dork",
@@ -664,7 +664,7 @@
         "title": "Christmas Temporary Job in Kingston upon Thames (with Salaries ... - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "298 Christmas Temporary jobs available in Kingston upon Thames on Indeed.com. Apply to YoungCapital, 24 Seven, Reiss and more companies!",
+        "summary": "306 Christmas Temporary jobs available in Kingston upon Thames on Indeed.com. Apply to Majestic Wine Warehouses, YoungCapital, 24 Seven and more companies!",
         "url": "https://uk.indeed.com/q-christmas-temporary-l-kingston-upon-thames-jobs.html?vjk=318d48d1f18336ff",
         "pay": "See listing",
         "source": "web dork",
@@ -835,7 +835,7 @@
         "title": "Part-time jobs in Kingston upon Thames | Locatd",
         "company": "locatd.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "How much do part-time jobs in Kingston upon Thames pay? The 75 part-time roles in Kingston upon Thames that list pay advertise between £8.00 and £ 16 .00 an hour, typically around £13.00. Actual pay varies by employer, age and experience.",
+        "summary": "How much do part-time jobs in Kingston upon Thames pay? The 79 part-time roles in Kingston upon Thames that list pay advertise between £8.00 and £ 16 .00 an hour, typically around £13.00. Actual pay varies by employer, age and experience.",
         "url": "https://www.locatd.co.uk/jobs/kingston/part-time",
         "pay": "See listing",
         "source": "web dork",
@@ -1478,10 +1478,10 @@
       "firstSeen": 1792879313076,
       "job": {
         "id": "web-f7yql1",
-        "title": "110 Best weekend Jobs in New Malden (October 2026) | JOB TODAY",
+        "title": "112 Best weekend Jobs in New Malden (October 2026) | JOB TODAY",
         "company": "jobtoday.com",
         "location": "Kingston area (web find)",
-        "summary": "Apply to 110 weekend jobs available and hiring now in New Malden . New weekend vacancies are added daily on JOB TODAY. Get set up in seconds & start chatting with employers in minutes!",
+        "summary": "Apply to 112 weekend jobs available and hiring now in New Malden . New weekend vacancies are added daily on JOB TODAY. Get set up in seconds & start chatting with employers in minutes!",
         "url": "https://jobtoday.com/gb/jobs-weekend/new-malden",
         "pay": "See listing",
         "source": "web dork",
@@ -1773,7 +1773,9 @@
         "score": 56
       },
       "num": 76,
-      "lastSent": 1793119487648
+      "lastSent": 1793119487648,
+      "reminders": 1,
+      "lastReminded": 1793213859976
     },
     "web-1ntaadl": {
       "status": "sent",
@@ -1790,7 +1792,9 @@
         "score": 55
       },
       "num": 77,
-      "lastSent": 1793119488614
+      "lastSent": 1793119488614,
+      "reminders": 1,
+      "lastReminded": 1793213860144
     },
     "web-1bqowmo": {
       "status": "sent",
@@ -1807,7 +1811,9 @@
         "score": 50
       },
       "num": 78,
-      "lastSent": 1793119488776
+      "lastSent": 1793119488776,
+      "reminders": 1,
+      "lastReminded": 1793213860290
     },
     "web-17h3suy": {
       "status": "sent",
@@ -1893,6 +1899,23 @@
       },
       "num": 83,
       "lastSent": 1793168680407
+    },
+    "web-x7blf": {
+      "status": "sent",
+      "firstSeen": 1793213835106,
+      "job": {
+        "id": "web-x7blf",
+        "title": "Christmas Customer Assistant - Food - Kingston » Kingston-upon-thames ...",
+        "company": "jobs.marksandspencer.com",
+        "location": "Kingston area (web find)",
+        "summary": "Christmas Customer Assistant - Food - Kingston In Store Kingston Kingston-upon-thames , Greater London Part Time Temporary Contract end date: 26/12/2026 £14.74 p/h",
+        "url": "https://jobs.marksandspencer.com/job-search/in-store/kingston-upon-thames-greater-london/christmas-customer-assistant-food-kingston/300008385411684",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 73
+      },
+      "num": 84,
+      "lastSent": 1793213859116
     }
   }
 }
