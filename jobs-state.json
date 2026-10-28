@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 84,
+  "counter": 85,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 306 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 259 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -664,7 +664,7 @@
         "title": "Christmas Temporary Job in Kingston upon Thames (with Salaries ... - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "306 Christmas Temporary jobs available in Kingston upon Thames on Indeed.com. Apply to Majestic Wine Warehouses, YoungCapital, 24 Seven and more companies!",
+        "summary": "259 Christmas Temporary jobs available in Kingston upon Thames on Indeed.com. Apply to Majestic Wine Warehouses, YoungCapital, 24 Seven and more companies!",
         "url": "https://uk.indeed.com/q-christmas-temporary-l-kingston-upon-thames-jobs.html?vjk=318d48d1f18336ff",
         "pay": "See listing",
         "source": "web dork",
@@ -873,7 +873,7 @@
         "title": "part time 16 year old jobs in kingston upon thames, eng",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 45 Part time 16 year old job opportunities in Kingston Upon Thames , Eng. Apply today to advance your career with top employers.",
+        "summary": "Discover 43 Part time 16 year old job opportunities in Kingston Upon Thames , Eng. Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=part+time+16+year+old&l=kingston+upon+thames%2C+eng",
         "pay": "See listing",
         "source": "web dork",
@@ -1830,7 +1830,9 @@
         "score": 50
       },
       "num": 79,
-      "lastSent": 1793119488951
+      "lastSent": 1793119488951,
+      "reminders": 1,
+      "lastReminded": 1793228147575
     },
     "web-zw33af": {
       "status": "sent",
@@ -1847,7 +1849,9 @@
         "score": 40
       },
       "num": 80,
-      "lastSent": 1793119489122
+      "lastSent": 1793119489122,
+      "reminders": 1,
+      "lastReminded": 1793228147784
     },
     "web-w98pvy": {
       "status": "sent",
@@ -1864,7 +1868,9 @@
         "score": 40
       },
       "num": 81,
-      "lastSent": 1793134929144
+      "lastSent": 1793134929144,
+      "reminders": 1,
+      "lastReminded": 1793228147984
     },
     "web-4a3n75": {
       "status": "sent",
@@ -1916,6 +1922,23 @@
       },
       "num": 84,
       "lastSent": 1793213859116
+    },
+    "web-1cvf1xp": {
+      "status": "sent",
+      "firstSeen": 1793228136528,
+      "job": {
+        "id": "web-1cvf1xp",
+        "title": "Christmas Job in Kingston upon Thames (with Salaries) - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Christmas jobs now hiring in Kingston upon Thames on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-christmas-jobs-l-kingston-upon-thames-jobs.html?vjk=412303b799ebb24f",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 55
+      },
+      "num": 85,
+      "lastSent": 1793228146513
     }
   }
 }
