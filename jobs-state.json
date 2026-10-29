@@ -326,7 +326,7 @@
         "title": "Lidl Job Search: Find your new job here!",
         "company": "careers.lidl.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Legal Consultant 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Experienced £52,800* up to £82,500* per annum",
+        "summary": "Retail Operations Graduate Management Programme 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Student & Graduate £40,000 per annum*",
         "url": "https://careers.lidl.co.uk/jobsearch?page=1&sort_field=location.distance&sort_order=asc&baseSearch=%7B%22location%22:%7B%22midPointName%22:%22Surbiton,+Greater+London%22,%22latitude%22:51.3763,%22longitude%22:-0.2791,%22max_distance%22:%222%22%7D%7D",
         "pay": "See listing",
         "source": "web dork",
@@ -919,8 +919,8 @@
       },
       "num": 31,
       "lastSent": 1792498949730,
-      "reminders": 2,
-      "lastReminded": 1792879323116
+      "reminders": 3,
+      "lastReminded": 1793305371700
     },
     "web-18zlzh1": {
       "status": "sent",
@@ -938,8 +938,8 @@
       },
       "num": 32,
       "lastSent": 1792516964736,
-      "reminders": 2,
-      "lastReminded": 1792879323296
+      "reminders": 3,
+      "lastReminded": 1793305371892
     },
     "web-1k1b0af": {
       "status": "sent",
@@ -1925,7 +1925,9 @@
         "score": 73
       },
       "num": 84,
-      "lastSent": 1793213859116
+      "lastSent": 1793213859116,
+      "reminders": 1,
+      "lastReminded": 1793305371113
     },
     "web-1cvf1xp": {
       "status": "sent",
