@@ -191,7 +191,7 @@
         "title": "Seasonal jobs in Kingston upon Thames, Greater London - October 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 254 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 248 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -326,7 +326,7 @@
         "title": "Lidl Job Search: Find your new job here!",
         "company": "careers.lidl.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Estate and Retail Operations Graduate Programme 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Student & Graduate £40,000 per annum*",
+        "summary": "Legal Consultant 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Experienced £52,800* up to £82,500* per annum",
         "url": "https://careers.lidl.co.uk/jobsearch?page=1&sort_field=location.distance&sort_order=asc&baseSearch=%7B%22location%22:%7B%22midPointName%22:%22Surbiton,+Greater+London%22,%22latitude%22:51.3763,%22longitude%22:-0.2791,%22max_distance%22:%222%22%7D%7D",
         "pay": "See listing",
         "source": "web dork",
@@ -1337,8 +1337,8 @@
       },
       "num": 53,
       "lastSent": 1792756349906,
-      "reminders": 1,
-      "lastReminded": 1792852865095
+      "reminders": 2,
+      "lastReminded": 1793261039392
     },
     "web-1nsinyi": {
       "status": "sent",
@@ -1356,8 +1356,8 @@
       },
       "num": 54,
       "lastSent": 1792771192214,
-      "reminders": 1,
-      "lastReminded": 1792863712182
+      "reminders": 2,
+      "lastReminded": 1793261039590
     },
     "web-1q52bl4": {
       "status": "sent",
@@ -1633,7 +1633,7 @@
         "title": "Full Time jobs in Kingston upon Thames, Greater London - October 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 2604 live Full Time jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 2654 live Full Time jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/permanent-full-time-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1906,7 +1906,9 @@
         "score": 66
       },
       "num": 83,
-      "lastSent": 1793168680407
+      "lastSent": 1793168680407,
+      "reminders": 1,
+      "lastReminded": 1793261038857
     },
     "web-x7blf": {
       "status": "sent",
