@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 91,
+  "counter": 92,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -26,7 +26,7 @@
         "title": "Christmas grotto elf jobs in Kingston upon Thames, Greater London",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 308.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 321.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-christmas-grotto-elf/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -1014,8 +1014,8 @@
       },
       "num": 36,
       "lastSent": 1792588630826,
-      "reminders": 2,
-      "lastReminded": 1792936752161
+      "reminders": 3,
+      "lastReminded": 1793366087031
     },
     "web-bbzrmu": {
       "status": "sent",
@@ -1432,8 +1432,8 @@
       },
       "num": 58,
       "lastSent": 1792821773840,
-      "reminders": 1,
-      "lastReminded": 1792920847092
+      "reminders": 2,
+      "lastReminded": 1793366086640
     },
     "web-c08s5y": {
       "status": "sent",
@@ -1451,8 +1451,8 @@
       },
       "num": 59,
       "lastSent": 1792840778099,
-      "reminders": 1,
-      "lastReminded": 1792936751905
+      "reminders": 2,
+      "lastReminded": 1793366086817
     },
     "web-138raal": {
       "status": "sent",
@@ -2049,6 +2049,23 @@
       },
       "num": 91,
       "lastSent": 1793318452188
+    },
+    "web-xslolx": {
+      "status": "sent",
+      "firstSeen": 1793366075336,
+      "job": {
+        "id": "web-xslolx",
+        "title": "Christmas Job in Kingston upon Thames (with Salaries) - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Christmas jobs now hiring in Kingston upon Thames on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-christmas-jobs-l-kingston-upon-thames-jobs.html?vjk=62331190c352cbd6",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 55
+      },
+      "num": 92,
+      "lastSent": 1793366085567
     }
   }
 }
