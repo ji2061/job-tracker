@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 93,
+  "counter": 94,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -56,7 +56,7 @@
         "title": "Urgent! 16 year old part time jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 339.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 335.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-16-year-old-part-time/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 245 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 237 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -176,7 +176,7 @@
         "title": "christmas retail jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 277 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 845 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+retail&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -968,7 +968,7 @@
         "title": "Weekend work jobs in New Malden, Greater London - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Weekend work jobs in New Malden , Greater London. Explore 353.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend work jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Weekend work jobs in New Malden , Greater London. Explore 308.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend work jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-weekend-work/New-Malden%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -1147,8 +1147,8 @@
       },
       "num": 43,
       "lastSent": 1792619505780,
-      "reminders": 2,
-      "lastReminded": 1792974615767
+      "reminders": 3,
+      "lastReminded": 1793469883843
     },
     "web-15jtd6g": {
       "status": "sent",
@@ -1166,8 +1166,8 @@
       },
       "num": 44,
       "lastSent": 1792619506077,
-      "reminders": 2,
-      "lastReminded": 1792974615928
+      "reminders": 3,
+      "lastReminded": 1793469884045
     },
     "web-14t6i4u": {
       "status": "sent",
@@ -1185,8 +1185,8 @@
       },
       "num": 45,
       "lastSent": 1792619506300,
-      "reminders": 2,
-      "lastReminded": 1792991347389
+      "reminders": 3,
+      "lastReminded": 1793469884230
     },
     "web-da2p64": {
       "status": "sent",
@@ -1478,10 +1478,10 @@
       "firstSeen": 1792879313076,
       "job": {
         "id": "web-f7yql1",
-        "title": "114 Best weekend Jobs in New Malden (October 2026) | JOB TODAY",
+        "title": "115 Best weekend Jobs in New Malden (October 2026) | JOB TODAY",
         "company": "jobtoday.com",
         "location": "Kingston area (web find)",
-        "summary": "Apply to 114 weekend jobs available and hiring now in New Malden . New weekend vacancies are added daily on JOB TODAY. Get set up in seconds & start chatting with employers in minutes!",
+        "summary": "Apply to 115 weekend jobs available and hiring now in New Malden . New weekend vacancies are added daily on JOB TODAY. Get set up in seconds & start chatting with employers in minutes!",
         "url": "https://jobtoday.com/gb/jobs-weekend/new-malden",
         "pay": "See listing",
         "source": "web dork",
@@ -2097,6 +2097,23 @@
       },
       "num": 93,
       "lastSent": 1793385687851
+    },
+    "web-e377i7": {
+      "status": "sent",
+      "firstSeen": 1793469860391,
+      "job": {
+        "id": "web-e377i7",
+        "title": "Jobs in Tolworth | Reed.co.uk",
+        "company": "reed.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find jobs in Tolworth with Reed.co.uk. Discover vacancies on offer, in and around Tolworth , helping you Mondays.",
+        "url": "https://www.reed.co.uk/jobs/jobs-in-tolworth",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 94,
+      "lastSent": 1793469882576
     }
   }
 }
