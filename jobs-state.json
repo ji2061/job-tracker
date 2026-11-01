@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 95,
+  "counter": 96,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -23,10 +23,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-lsmmgp",
-        "title": "Christmas grotto elf jobs in Kingston upon Thames, Greater London",
+        "title": "Urgent! Christmas grotto elf jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 321.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 328.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-christmas-grotto-elf/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -56,7 +56,7 @@
         "title": "Urgent! 16 year old part time jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 335.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 328.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-16-year-old-part-time/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 237 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 236 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -664,7 +664,7 @@
         "title": "Christmas Temporary Job in Kingston upon Thames (with Salaries ... - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "254 Christmas Temporary jobs available in Kingston upon Thames on Indeed.com. Apply to Majestic Wine Warehouses, YoungCapital, 24 Seven and more companies!",
+        "summary": "214 Christmas Temporary jobs available in Kingston upon Thames on Indeed.com. Apply to Majestic Wine Warehouses, YoungCapital, Pandora Jewelry and more companies!",
         "url": "https://uk.indeed.com/q-christmas-temporary-l-kingston-upon-thames-jobs.html?vjk=318d48d1f18336ff",
         "pay": "See listing",
         "source": "web dork",
@@ -851,7 +851,7 @@
       "firstSeen": 1792417544814,
       "job": {
         "id": "web-6zsmy7",
-        "title": "part time weekend jobs in Kingston upon Thames - Indeed",
+        "title": "part time weekend jobs in Kingston upon Thames",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
         "summary": "Explore 265 Part Time Weekend job openings in Kingston upon Thames on Indeed. Find flexible work near you that fits your schedule from retail, food service, delivery, and more.",
@@ -1261,8 +1261,8 @@
       },
       "num": 49,
       "lastSent": 1792645540057,
-      "reminders": 2,
-      "lastReminded": 1793013542672
+      "reminders": 3,
+      "lastReminded": 1793493072043
     },
     "web-6hkuqn": {
       "status": "sent",
@@ -1527,8 +1527,8 @@
       },
       "num": 63,
       "lastSent": 1792936751234,
-      "reminders": 1,
-      "lastReminded": 1793035753111
+      "reminders": 2,
+      "lastReminded": 1793493072249
     },
     "web-na9gvz": {
       "status": "sent",
@@ -1546,8 +1546,8 @@
       },
       "num": 64,
       "lastSent": 1792949060721,
-      "reminders": 1,
-      "lastReminded": 1793035753356
+      "reminders": 2,
+      "lastReminded": 1793493072449
     },
     "web-1xc2wuc": {
       "status": "sent",
@@ -2133,6 +2133,23 @@
       },
       "num": 95,
       "lastSent": 1793483142479
+    },
+    "web-1wq7lp0": {
+      "status": "sent",
+      "firstSeen": 1793493046005,
+      "job": {
+        "id": "web-1wq7lp0",
+        "title": "Weekend Jobs in New Malden (Saturday) - Reed.co.uk",
+        "company": "reed.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Weekend /Evening Veterinary Customer Care Advisor: Veterinary Practice in Surbiton - Surrey We are looking for a positive and approachable individual who has genuine passion in providing outstanding client care and client experience.",
+        "url": "https://www.reed.co.uk/jobs/weekend-jobs-in-new-malden",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 58
+      },
+      "num": 96,
+      "lastSent": 1793493071653
     }
   }
 }
