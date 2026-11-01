@@ -1698,8 +1698,8 @@
       },
       "num": 72,
       "lastSent": 1793035752504,
-      "reminders": 1,
-      "lastReminded": 1793134930074
+      "reminders": 2,
+      "lastReminded": 1793572189587
     },
     "web-neczel": {
       "status": "sent",
@@ -1717,8 +1717,8 @@
       },
       "num": 73,
       "lastSent": 1793035752936,
-      "reminders": 1,
-      "lastReminded": 1793134930353
+      "reminders": 2,
+      "lastReminded": 1793572189748
     },
     "web-1i2at7u": {
       "status": "sent",
@@ -2134,7 +2134,9 @@
         "score": 50
       },
       "num": 95,
-      "lastSent": 1793483142479
+      "lastSent": 1793483142479,
+      "reminders": 1,
+      "lastReminded": 1793572188676
     },
     "web-1wq7lp0": {
       "status": "sent",
