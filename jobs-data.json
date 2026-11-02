@@ -1,7 +1,7 @@
 {
-  "updatedAt": "1 Nov 2026",
+  "updatedAt": "2 Nov 2026",
   "location": "KT1 3HZ · bus-only · 16+",
-  "note": "Tonight's scrape found nothing new - showing previous results.",
+  "note": "No keys set (REED_API_KEY, ADZUNA_APP_ID + ADZUNA_APP_KEY) - add them as GitHub repo secrets for live results.",
   "jobs": [
     {
       "id": "web-1x5vi1l",
@@ -24,12 +24,12 @@
       "source": "web dork"
     },
     {
-      "id": "web-lsmmgp",
-      "title": "Urgent! Christmas grotto elf jobs in Kingston upon Thames ... - Jooble",
+      "id": "web-fhjzrg",
+      "title": "Urgent! 16 year old part time jobs in Kingston upon Thames ... - Jooble",
       "company": "uk.jooble.org",
       "location": "Kingston area (web find)",
-      "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 328.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
-      "url": "https://uk.jooble.org/jobs-christmas-grotto-elf/Kingston-upon-Thames%2C-Greater-London",
+      "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 344.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
+      "url": "https://uk.jooble.org/jobs-16-year-old-part-time/Kingston-upon-Thames%2C-Greater-London",
       "pay": "See listing",
       "source": "web dork"
     },
@@ -44,21 +44,11 @@
       "source": "web dork"
     },
     {
-      "id": "web-fhjzrg",
-      "title": "Urgent! 16 year old part time jobs in Kingston upon Thames ... - Jooble",
-      "company": "uk.jooble.org",
-      "location": "Kingston area (web find)",
-      "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 326.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
-      "url": "https://uk.jooble.org/jobs-16-year-old-part-time/Kingston-upon-Thames%2C-Greater-London",
-      "pay": "See listing",
-      "source": "web dork"
-    },
-    {
       "id": "web-1izfc4f",
       "title": "christmas temporary jobs in kingston upon thames",
       "company": "simplyhired.co.uk",
       "location": "Kingston area (web find)",
-      "summary": "Discover 231 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+      "summary": "Discover 221 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
       "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
       "pay": "See listing",
       "source": "web dork"
@@ -70,16 +60,6 @@
       "location": "Kingston area (web find)",
       "summary": "Christmas Customer Assistant - Operations - Kingston In Store Kingston Kingston-upon-thames , Greater London Temporary Contract end date: 26/12/2026 £14.74 p/h Closing date: 23rd October 2026",
       "url": "https://jobs.marksandspencer.com/job-search/in-store/kingston-upon-thames-greater-london/christmas-customer-assistant-operations-kingston/300008385438351",
-      "pay": "See listing",
-      "source": "web dork"
-    },
-    {
-      "id": "web-kifqab",
-      "title": "Temporary & seasonal jobs in Kingston upon Thames | Locatd",
-      "company": "locatd.co.uk",
-      "location": "Kingston area (web find)",
-      "summary": "49 live temporary & seasonal jobs within 4 miles of Kingston upon Thames right now (covering Kingston town centre, the Bentall Centre and Surbiton). That means seasonal, fixed-term and Christmas temp roles, pinned on a map with the pay each employer stated.",
-      "url": "https://www.locatd.co.uk/jobs/kingston/temporary",
       "pay": "See listing",
       "source": "web dork"
     },
@@ -114,12 +94,32 @@
       "source": "web dork"
     },
     {
+      "id": "web-bccu3p",
+      "title": "Christmas Temp Jobs in Kingston Upon Thames | Reed.co.uk",
+      "company": "reed.co.uk",
+      "location": "Kingston area (web find)",
+      "summary": "Find Christmas Temp jobs in Kingston Upon Thames with Reed.co.uk. Discover Christmas Temp vacancies on offer, in and around Kingston Upon Thames , helping you Mondays.",
+      "url": "https://www.reed.co.uk/jobs/christmas-temp-jobs-in-kingston-upon-thames",
+      "pay": "See listing",
+      "source": "web dork"
+    },
+    {
       "id": "web-1ark9q2",
       "title": "250 Christmas temp jobs in Kingston upon Thames, England",
       "company": "glassdoor.co.uk",
       "location": "Kingston area (web find)",
       "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 250 open jobs for Christmas temp in Kingston upon Thames .",
       "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-christmas-temp-jobs-SRCH_IL.0,20_IC3288244_KO21,35.htm",
+      "pay": "See listing",
+      "source": "web dork"
+    },
+    {
+      "id": "web-1ebzu1t",
+      "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
+      "company": "cv-library.co.uk",
+      "location": "Kingston area (web find)",
+      "summary": "Find 69 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
+      "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames?jobId=225752160&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M61QN6QKAMX4DDQ5QCFRZ5FP",
       "pay": "See listing",
       "source": "web dork"
     }
