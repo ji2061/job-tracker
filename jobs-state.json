@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 99,
+  "counter": 100,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -26,7 +26,7 @@
         "title": "Urgent! Christmas grotto elf jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 328.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 344.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-christmas-grotto-elf/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 221 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 211 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -101,7 +101,7 @@
         "title": "Temporary & seasonal jobs in Kingston upon Thames | Locatd",
         "company": "locatd.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "49 live temporary & seasonal jobs within 4 miles of Kingston upon Thames right now (covering Kingston town centre, the Bentall Centre and Surbiton). That means seasonal, fixed-term and Christmas temp roles, pinned on a map with the pay each employer stated.",
+        "summary": "50 live temporary & seasonal jobs within 4 miles of Kingston upon Thames right now (covering Kingston town centre, the Bentall Centre and Surbiton). That means seasonal, fixed-term and Christmas temp roles, pinned on a map with the pay each employer stated.",
         "url": "https://www.locatd.co.uk/jobs/kingston/temporary",
         "pay": "See listing",
         "source": "web dork",
@@ -176,7 +176,7 @@
         "title": "christmas retail jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 434 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 373 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+retail&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1793,8 +1793,8 @@
       },
       "num": 77,
       "lastSent": 1793119488614,
-      "reminders": 1,
-      "lastReminded": 1793213860144
+      "reminders": 2,
+      "lastReminded": 1793644902546
     },
     "web-1bqowmo": {
       "status": "sent",
@@ -1812,8 +1812,8 @@
       },
       "num": 78,
       "lastSent": 1793119488776,
-      "reminders": 1,
-      "lastReminded": 1793213860290
+      "reminders": 2,
+      "lastReminded": 1793644902708
     },
     "web-17h3suy": {
       "status": "sent",
@@ -2210,7 +2210,26 @@
         "score": 46
       },
       "num": 99,
-      "lastSent": 1793558456524
+      "lastSent": 1793558456524,
+      "reminders": 1,
+      "lastReminded": 1793644902398
+    },
+    "web-ms24la": {
+      "status": "sent",
+      "firstSeen": 1793644881541,
+      "job": {
+        "id": "web-ms24la",
+        "title": "retail weekend jobs in New Malden - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Retail Weekend jobs now hiring in New Malden on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-retail-weekend-l-new-malden-jobs.html",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 46
+      },
+      "num": 100,
+      "lastSent": 1793644901682
     }
   }
 }
