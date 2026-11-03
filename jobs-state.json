@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 105,
+  "counter": 107,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -188,10 +188,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-rbts4o",
-        "title": "Seasonal jobs in Kingston upon Thames, Greater London - October 2026 ...",
+        "title": "Seasonal jobs in Kingston upon Thames, Greater London - November 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 258 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 257 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -233,10 +233,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-vf3iqp",
-        "title": "Kingston Upon Thames jobs - October 2026 | CV Library",
+        "title": "Kingston Upon Thames jobs - November 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 118 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
+        "summary": "Find 119 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -293,10 +293,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-945o4j",
-        "title": "Kingston jobs - October 2026 | CV Library",
+        "title": "Kingston jobs - November 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Quantity Surveyor (QS) Location: Kingston Upon Thames Salary: [Insert Salary Range / Competitive] + Benefits Contract Type: Full-time, Permanent Are you a commercially-minded Quantity Surveyor who thrives on variety and managing projects from inception to completion?...",
+        "summary": "In this permanent position, you will cover a designated area across Kingston upon Thames and the surrounding area. You will be responsible for carrying out general plumbing repairs, maintenance, and servicing within customers&#x27; homes and private residential properties....",
         "url": "https://www.cv-library.co.uk/kingston-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -1497,10 +1497,10 @@
       "firstSeen": 1792920836640,
       "job": {
         "id": "web-xxazqc",
-        "title": "Weekend Only jobs in Kingston upon Thames, Greater London - October ...",
+        "title": "Weekend Only jobs in Kingston upon Thames, Greater London - November ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 96 live Weekend Only jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 101 live Weekend Only jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/weekend-only-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1630,10 +1630,10 @@
       "firstSeen": 1793013531590,
       "job": {
         "id": "web-ygklp4",
-        "title": "Full Time jobs in Kingston upon Thames, Greater London - October 2026 ...",
+        "title": "Full Time jobs in Kingston upon Thames, Greater London - November 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 2433 live Full Time jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 2448 live Full Time jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/permanent-full-time-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1888,8 +1888,8 @@
       },
       "num": 82,
       "lastSent": 1793134929854,
-      "reminders": 1,
-      "lastReminded": 1793239179077
+      "reminders": 2,
+      "lastReminded": 1793693052758
     },
     "web-1k88afo": {
       "status": "sent",
@@ -1907,8 +1907,8 @@
       },
       "num": 83,
       "lastSent": 1793168680407,
-      "reminders": 1,
-      "lastReminded": 1793261038857
+      "reminders": 2,
+      "lastReminded": 1793693052917
     },
     "web-x7blf": {
       "status": "sent",
@@ -1926,8 +1926,8 @@
       },
       "num": 84,
       "lastSent": 1793213859116,
-      "reminders": 1,
-      "lastReminded": 1793305371113
+      "reminders": 2,
+      "lastReminded": 1793693053076
     },
     "web-1cvf1xp": {
       "status": "sent",
@@ -2317,7 +2317,7 @@
       "lastSent": 1793668970127
     },
     "web-mbx2xh": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1793668958697,
       "job": {
         "id": "web-mbx2xh",
@@ -2329,10 +2329,12 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 50
-      }
+      },
+      "num": 106,
+      "lastSent": 1793693051878
     },
     "web-jo6g9f": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1793668958697,
       "job": {
         "id": "web-jo6g9f",
@@ -2344,7 +2346,9 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 40
-      }
+      },
+      "num": 107,
+      "lastSent": 1793693052616
     }
   }
 }
