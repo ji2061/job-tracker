@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 111,
+  "counter": 112,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -38,10 +38,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-o20t2k",
-        "title": "16 year old jobs in Kingston upon Thames, Greater London",
+        "title": "Urgent! 16 year old jobs in Kingston upon Thames, Greater ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for 16 year old jobs in Kingston upon Thames , Greater London. Explore 350.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for 16 year old jobs in Kingston upon Thames , Greater London. Explore 355.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-16-year-old/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -56,7 +56,7 @@
         "title": "Urgent! 16 year old part time jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 350.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for 16 year old part time jobs in Kingston upon Thames , Greater London. Explore 374.000+ new and current Job vacancies. Competitive salary. Full- time , temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. 16 year old part time jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-16-year-old-part-time/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -101,7 +101,7 @@
         "title": "Temporary & seasonal jobs in Kingston upon Thames | Locatd",
         "company": "locatd.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "67 live temporary & seasonal jobs within 4 miles of Kingston upon Thames right now (covering Kingston town centre, the Bentall Centre and Surbiton). That means seasonal, fixed-term and Christmas temp roles, pinned on a map with the pay each employer stated.",
+        "summary": "78 live temporary & seasonal jobs within 4 miles of Kingston upon Thames right now (covering Kingston town centre, the Bentall Centre and Surbiton). That means seasonal, fixed-term and Christmas temp roles, pinned on a map with the pay each employer stated.",
         "url": "https://www.locatd.co.uk/jobs/kingston/temporary",
         "pay": "See listing",
         "source": "web dork",
@@ -1755,8 +1755,8 @@
       },
       "num": 75,
       "lastSent": 1793062697165,
-      "reminders": 2,
-      "lastReminded": 1793583705673
+      "reminders": 3,
+      "lastReminded": 1793919480343
     },
     "web-kmyu8d": {
       "status": "sent",
@@ -2173,8 +2173,8 @@
       },
       "num": 97,
       "lastSent": 1793516225420,
-      "reminders": 1,
-      "lastReminded": 1793608206248
+      "reminders": 2,
+      "lastReminded": 1793919480654
     },
     "web-643qbz": {
       "status": "sent",
@@ -2192,8 +2192,8 @@
       },
       "num": 98,
       "lastSent": 1793516225866,
-      "reminders": 1,
-      "lastReminded": 1793608207272
+      "reminders": 2,
+      "lastReminded": 1793919480969
     },
     "web-1bppa8n": {
       "status": "sent",
@@ -2439,6 +2439,23 @@
       },
       "num": 111,
       "lastSent": 1793900938877
+    },
+    "web-mfqiy7": {
+      "status": "sent",
+      "firstSeen": 1793919466398,
+      "job": {
+        "id": "web-mfqiy7",
+        "title": "204 Temporary jobs in Kingston Upon Thames + 10 miles",
+        "company": "totaljobs.com",
+        "location": "Kingston area (web find)",
+        "summary": "204 Temporary jobs in Kingston Upon Thames on totaljobs. Find your next Temporary job in Kingston Upon Thames and apply today. We&#x27;ll get you noticed.",
+        "url": "https://www.totaljobs.com/jobs/temporary/in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 42
+      },
+      "num": 112,
+      "lastSent": 1793919479104
     }
   }
 }
