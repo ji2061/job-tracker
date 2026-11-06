@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 114,
+  "counter": 116,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -1633,7 +1633,7 @@
         "title": "Full Time jobs in Kingston upon Thames, Greater London - November 2026 ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 2441 live Full Time jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 2505 live Full Time jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/permanent-full-time-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1926,8 +1926,8 @@
       },
       "num": 84,
       "lastSent": 1793213859116,
-      "reminders": 2,
-      "lastReminded": 1793693053076
+      "reminders": 3,
+      "lastReminded": 1794007181404
     },
     "web-1cvf1xp": {
       "status": "sent",
@@ -1945,8 +1945,8 @@
       },
       "num": 85,
       "lastSent": 1793228146513,
-      "reminders": 2,
-      "lastReminded": 1793722964144
+      "reminders": 3,
+      "lastReminded": 1794007181548
     },
     "web-ikk08u": {
       "status": "sent",
@@ -2457,7 +2457,9 @@
         "score": 42
       },
       "num": 112,
-      "lastSent": 1793919479104
+      "lastSent": 1793919479104,
+      "reminders": 1,
+      "lastReminded": 1794007181237
     },
     "web-1rat2aq": {
       "status": "sent",
@@ -2492,6 +2494,40 @@
       },
       "num": 114,
       "lastSent": 1793988528331
+    },
+    "web-g57l0m": {
+      "status": "sent",
+      "firstSeen": 1794007170382,
+      "job": {
+        "id": "web-g57l0m",
+        "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 61 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames?jobId=225752160&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M5VZP83SYCKD4KW3FC987PWW",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 115,
+      "lastSent": 1794007180166
+    },
+    "web-1cb564g": {
+      "status": "sent",
+      "firstSeen": 1794007170382,
+      "job": {
+        "id": "web-1cb564g",
+        "title": "Jobs in Kingston upon Thames, Greater London - CV-Library",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "All Jobs and Vacancies in Kingston upon Thames , Greater London Displaying 1 - 20 of 10,000+ jobs",
+        "url": "https://www.cv-library.co.uk/jobs-in-kingston-upon-thames?search_id=search.01KXRE1DRVWK7V742V3K14P92A",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 116,
+      "lastSent": 1794007181093
     }
   }
 }
