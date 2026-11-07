@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 116,
+  "counter": 117,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -2002,8 +2002,8 @@
       },
       "num": 88,
       "lastSent": 1793318449168,
-      "reminders": 2,
-      "lastReminded": 1793742766234
+      "reminders": 3,
+      "lastReminded": 1794043830673
     },
     "web-z71rjb": {
       "status": "sent",
@@ -2021,8 +2021,8 @@
       },
       "num": 89,
       "lastSent": 1793318450347,
-      "reminders": 2,
-      "lastReminded": 1793742766408
+      "reminders": 3,
+      "lastReminded": 1794043830973
     },
     "web-ujzpdr": {
       "status": "sent",
@@ -2249,8 +2249,8 @@
       },
       "num": 101,
       "lastSent": 1793668968727,
-      "reminders": 1,
-      "lastReminded": 1793756673638
+      "reminders": 2,
+      "lastReminded": 1794043831178
     },
     "web-s5ch8k": {
       "status": "sent",
@@ -2528,6 +2528,23 @@
       },
       "num": 116,
       "lastSent": 1794007181093
+    },
+    "web-oauofr": {
+      "status": "sent",
+      "firstSeen": 1794043817243,
+      "job": {
+        "id": "web-oauofr",
+        "title": "Christmas Customer Assistant - Food - Tolworth Simply Food",
+        "company": "jobs.marksandspencer.com",
+        "location": "Kingston area (web find)",
+        "summary": "Christmas Customer Assistant - Food - Tolworth Simply Food In Store Tolworth Surbiton , Greater London Part Time Temporary Contract end date: 26/12/2026",
+        "url": "https://jobs.marksandspencer.com/job-search/in-store/surbiton-greater-london/christmas-customer-assistant-food-tolworth-simply-food/300008384704746",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 73
+      },
+      "num": 117,
+      "lastSent": 1794043827953
     }
   }
 }
