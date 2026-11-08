@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 119,
+  "counter": 120,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -26,7 +26,7 @@
         "title": "Urgent! Christmas grotto elf jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 397.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Christmas grotto elf jobs in Kingston upon Thames , Greater London. Explore 357.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas grotto elf jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-christmas-grotto-elf/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -2116,8 +2116,8 @@
       },
       "num": 94,
       "lastSent": 1793469882576,
-      "reminders": 2,
-      "lastReminded": 1793872682945
+      "reminders": 3,
+      "lastReminded": 1794155086587
     },
     "web-upr5am": {
       "status": "sent",
@@ -2382,8 +2382,8 @@
       },
       "num": 108,
       "lastSent": 1793756672330,
-      "reminders": 1,
-      "lastReminded": 1793846236602
+      "reminders": 2,
+      "lastReminded": 1794155086271
     },
     "web-1ntftt4": {
       "status": "sent",
@@ -2401,8 +2401,8 @@
       },
       "num": 109,
       "lastSent": 1793756673464,
-      "reminders": 1,
-      "lastReminded": 1793846236964
+      "reminders": 2,
+      "lastReminded": 1794155086437
     },
     "web-1kxxayt": {
       "status": "sent",
@@ -2589,6 +2589,23 @@
       },
       "num": 119,
       "lastSent": 1794105292211
+    },
+    "web-y9osju": {
+      "status": "sent",
+      "firstSeen": 1794155075561,
+      "job": {
+        "id": "web-y9osju",
+        "title": "Five things to do in and around Kingston this Christmas",
+        "company": "kingstoncourier.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Santa&#x27;s Grotto Fenwick, Kingston The local Fenwick in Kingston is hosting a Santa&#x27;s Grotto until Christmas Eve on December 24. The Grotto is on the third floor with elves welcoming you and singing reindeer. Tickets are £12.50 each for adults and children and opening times vary between 9:00am and 6:00pm depending on which day you go.",
+        "url": "https://kingstoncourier.co.uk/five-things-to-do-in-and-around-kingston-this-christmas/",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 120,
+      "lastSent": 1794155085302
     }
   }
 }
