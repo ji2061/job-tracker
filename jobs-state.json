@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 120,
+  "counter": 123,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -176,7 +176,7 @@
         "title": "christmas retail jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 657 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 674 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+retail&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -968,7 +968,7 @@
         "title": "Weekend work jobs in New Malden, Greater London - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Weekend work jobs in New Malden , Greater London. Explore 360.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend work jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Weekend work jobs in New Malden , Greater London. Explore 357.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend work jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-weekend-work/New-Malden%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -1215,7 +1215,7 @@
         "title": "Jobs in Worcester Park, Surrey - November 2026 - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Search for jobs in Worcester Park , Surrey. Explore 344.000+ current vacancies . Full-time, temporary, and part-time jobs. Competitive salary. The latest vacancies from all the top employers and leading job boards in Worcester Park , Surrey. Сompany reviews from real employees. Job email alerts. Fast & Free!",
+        "summary": "Search for jobs in Worcester Park , Surrey. Explore 350.000+ current vacancies . Full-time, temporary, and part-time jobs. Competitive salary. The latest vacancies from all the top employers and leading job boards in Worcester Park , Surrey. Сompany reviews from real employees. Job email alerts. Fast & Free!",
         "url": "https://uk.jooble.org/jobs/Worcester-Park%2C-Surrey",
         "pay": "See listing",
         "source": "web dork",
@@ -2135,8 +2135,8 @@
       },
       "num": 95,
       "lastSent": 1793483142479,
-      "reminders": 2,
-      "lastReminded": 1793900939758
+      "reminders": 3,
+      "lastReminded": 1794170316679
     },
     "web-1wq7lp0": {
       "status": "sent",
@@ -2298,7 +2298,7 @@
         "title": "Work, Jobs in Worcester Park (with Salaries) | SimplyHired",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 70494 job opportunities in Worcester Park . Apply today to advance your career with top employers.",
+        "summary": "Discover 72559 job opportunities in Worcester Park . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?l=worcester+park",
         "pay": "See listing",
         "source": "web dork",
@@ -2420,8 +2420,8 @@
       },
       "num": 110,
       "lastSent": 1793809594029,
-      "reminders": 1,
-      "lastReminded": 1793900939564
+      "reminders": 2,
+      "lastReminded": 1794170316521
     },
     "web-2y5emo": {
       "status": "sent",
@@ -2571,7 +2571,9 @@
         "score": 73
       },
       "num": 118,
-      "lastSent": 1794080787525
+      "lastSent": 1794080787525,
+      "reminders": 1,
+      "lastReminded": 1794170316373
     },
     "web-5cmfqj": {
       "status": "sent",
@@ -2606,6 +2608,57 @@
       },
       "num": 120,
       "lastSent": 1794155085302
+    },
+    "web-786uqe": {
+      "status": "sent",
+      "firstSeen": 1794170305425,
+      "job": {
+        "id": "web-786uqe",
+        "title": "259 Best Jobs in Worcester Park (October 2026) | JOB TODAY",
+        "company": "jobtoday.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to 259 jobs available and hiring now in Worcester Park . New vacancies are added daily on JOB TODAY. Get set up in seconds & start chatting with employers in minutes!",
+        "url": "https://jobtoday.com/gb/jobs/worcester-park",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 121,
+      "lastSent": 1794170315203
+    },
+    "web-11rlxi3": {
+      "status": "sent",
+      "firstSeen": 1794170305425,
+      "job": {
+        "id": "web-11rlxi3",
+        "title": "Chessington jobs - October 2026 | CV Library",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Ideally, you&#x27;ll live in Chessington or within easy commuting distance, including Kingston upon Thames, Surbiton, Epsom, Tolworth, Worcester Park or New Malden. Interested?...",
+        "url": "https://www.cv-library.co.uk/chessington-jobs",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 122,
+      "lastSent": 1794170316079
+    },
+    "web-xb7b9f": {
+      "status": "sent",
+      "firstSeen": 1794170305425,
+      "job": {
+        "id": "web-xb7b9f",
+        "title": "chessington jobs in Worcester Park KT4 - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Chessington jobs now hiring in Worcester Park KT4 on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-chessington-l-worcester-park-kt4-jobs.html",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 40
+      },
+      "num": 123,
+      "lastSent": 1794170316226
     }
   }
 }
