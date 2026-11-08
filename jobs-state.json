@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 118,
+  "counter": 119,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -176,7 +176,7 @@
         "title": "christmas retail jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 623 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 657 Christmas retail job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+retail&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -2059,8 +2059,8 @@
       },
       "num": 91,
       "lastSent": 1793318452188,
-      "reminders": 2,
-      "lastReminded": 1793809594726
+      "reminders": 3,
+      "lastReminded": 1794105293490
     },
     "web-xslolx": {
       "status": "sent",
@@ -2412,7 +2412,7 @@
         "title": "Weekend Work, Jobs in New Malden (with Salaries) | SimplyHired",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 462 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
+        "summary": "Discover 430 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=weekend&l=new+malden",
         "pay": "See listing",
         "source": "web dork",
@@ -2514,7 +2514,9 @@
         "score": 65
       },
       "num": 115,
-      "lastSent": 1794007180166
+      "lastSent": 1794007180166,
+      "reminders": 1,
+      "lastReminded": 1794105293195
     },
     "web-1cb564g": {
       "status": "sent",
@@ -2531,7 +2533,9 @@
         "score": 50
       },
       "num": 116,
-      "lastSent": 1794007181093
+      "lastSent": 1794007181093,
+      "reminders": 1,
+      "lastReminded": 1794105293340
     },
     "web-oauofr": {
       "status": "sent",
@@ -2566,6 +2570,23 @@
       },
       "num": 118,
       "lastSent": 1794080787525
+    },
+    "web-5cmfqj": {
+      "status": "sent",
+      "firstSeen": 1794105282521,
+      "job": {
+        "id": "web-5cmfqj",
+        "title": "New Malden Jobs (with Salaries) | Indeed United Kingdom",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "110 New Malden jobs available on Indeed.com. Apply to YoungCapital, Haystack App, YORI and more companies!",
+        "url": "https://uk.indeed.com/q-new-malden-jobs.html?vjk=82efb26bf5275586",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 40
+      },
+      "num": 119,
+      "lastSent": 1794105292211
     }
   }
 }
