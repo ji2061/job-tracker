@@ -2078,8 +2078,8 @@
       },
       "num": 92,
       "lastSent": 1793366085567,
-      "reminders": 2,
-      "lastReminded": 1793829664063
+      "reminders": 3,
+      "lastReminded": 1794130768110
     },
     "web-5sqj3z": {
       "status": "sent",
@@ -2097,8 +2097,8 @@
       },
       "num": 93,
       "lastSent": 1793385687851,
-      "reminders": 2,
-      "lastReminded": 1793829665222
+      "reminders": 3,
+      "lastReminded": 1794130768267
     },
     "web-e377i7": {
       "status": "sent",
@@ -2552,7 +2552,9 @@
         "score": 73
       },
       "num": 117,
-      "lastSent": 1794043827953
+      "lastSent": 1794043827953,
+      "reminders": 1,
+      "lastReminded": 1794130767490
     },
     "web-vzvjkc": {
       "status": "sent",
