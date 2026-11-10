@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 125,
+  "counter": 126,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -11,7 +11,7 @@
         "title": "Urgent! Temporary christmas jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Temporary christmas jobs in Kingston upon Thames , Greater London. Explore 368.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Temporary christmas jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Temporary christmas jobs in Kingston upon Thames , Greater London. Explore 390.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Temporary christmas jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-temporary-christmas/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 188 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 195 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -2564,7 +2564,7 @@
         "title": "Urgent! Christmas temp jobs in Kingston upon Thames, Greater ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Christmas temp jobs in Kingston upon Thames , Greater London. Explore 400.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas temp jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Christmas temp jobs in Kingston upon Thames , Greater London. Explore 393.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas temp jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-christmas-temp/kingston-upon-thames%2C-greater-london",
         "pay": "See listing",
         "source": "web dork",
@@ -2583,7 +2583,7 @@
         "title": "New Malden Jobs (with Salaries) | Indeed United Kingdom",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "109 New Malden jobs available on Indeed.com. Apply to YoungCapital, Haystack App, YORI and more companies!",
+        "summary": "104 New Malden jobs available on Indeed.com. Apply to YoungCapital, Haystack App, YORI and more companies!",
         "url": "https://uk.indeed.com/q-new-malden-jobs.html?vjk=82efb26bf5275586",
         "pay": "See listing",
         "source": "web dork",
@@ -2628,7 +2628,9 @@
         "score": 50
       },
       "num": 121,
-      "lastSent": 1794170315203
+      "lastSent": 1794170315203,
+      "reminders": 1,
+      "lastReminded": 1794270739965
     },
     "web-11rlxi3": {
       "status": "sent",
@@ -2645,7 +2647,9 @@
         "score": 50
       },
       "num": 122,
-      "lastSent": 1794170316079
+      "lastSent": 1794170316079,
+      "reminders": 1,
+      "lastReminded": 1794270740080
     },
     "web-xb7b9f": {
       "status": "sent",
@@ -2662,7 +2666,9 @@
         "score": 40
       },
       "num": 123,
-      "lastSent": 1794170316226
+      "lastSent": 1794170316226,
+      "reminders": 1,
+      "lastReminded": 1794270740232
     },
     "web-15xmhyq": {
       "status": "sent",
@@ -2697,6 +2703,23 @@
       },
       "num": 125,
       "lastSent": 1794183095870
+    },
+    "web-o4pao6": {
+      "status": "sent",
+      "firstSeen": 1794270719488,
+      "job": {
+        "id": "web-o4pao6",
+        "title": "Jobs in Tolworth, Greater London - November 2026 - Jooble",
+        "company": "uk.jooble.org",
+        "location": "Kingston area (web find)",
+        "summary": "Search for jobs in Tolworth , Greater London. Explore 393.000+ current vacancies. Full-time, temporary, and part-time jobs . Competitive salary. The latest vacancies from all the top employers and leading job boards in Tolworth , Greater London. Сompany reviews from real employees. Job email alerts. Fast & Free!",
+        "url": "https://uk.jooble.org/jobs/Tolworth%2C-Greater-London",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 58
+      },
+      "num": 126,
+      "lastSent": 1794270739321
     }
   }
 }
