@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 127,
+  "counter": 128,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -236,7 +236,7 @@
         "title": "Kingston Upon Thames jobs - November 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 131 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
+        "summary": "Find 128 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -2268,8 +2268,8 @@
       },
       "num": 102,
       "lastSent": 1793668969625,
-      "reminders": 2,
-      "lastReminded": 1794067054172
+      "reminders": 3,
+      "lastReminded": 1794325916455
     },
     "web-p7hyx0": {
       "status": "sent",
@@ -2287,8 +2287,8 @@
       },
       "num": 103,
       "lastSent": 1793668969796,
-      "reminders": 2,
-      "lastReminded": 1794067054686
+      "reminders": 3,
+      "lastReminded": 1794325916686
     },
     "web-ntar3z": {
       "status": "sent",
@@ -2306,8 +2306,8 @@
       },
       "num": 104,
       "lastSent": 1793668969964,
-      "reminders": 2,
-      "lastReminded": 1794067054867
+      "reminders": 3,
+      "lastReminded": 1794325916825
     },
     "web-1lqmzdm": {
       "status": "sent",
@@ -2741,6 +2741,23 @@
       },
       "num": 127,
       "lastSent": 1794297018148
+    },
+    "web-1y72luu": {
+      "status": "sent",
+      "firstSeen": 1794325906475,
+      "job": {
+        "id": "web-1y72luu",
+        "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 73 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames?jobId=225700839&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M572K30H0SJPTM8F2CHB5KM4",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 128,
+      "lastSent": 1794325915676
     }
   }
 }
