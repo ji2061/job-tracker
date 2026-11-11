@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 135,
+  "counter": 137,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -2382,8 +2382,8 @@
       },
       "num": 108,
       "lastSent": 1793756672330,
-      "reminders": 2,
-      "lastReminded": 1794155086271
+      "reminders": 3,
+      "lastReminded": 1794411604715
     },
     "web-1ntftt4": {
       "status": "sent",
@@ -2401,8 +2401,8 @@
       },
       "num": 109,
       "lastSent": 1793756673464,
-      "reminders": 2,
-      "lastReminded": 1794155086437
+      "reminders": 3,
+      "lastReminded": 1794411604999
     },
     "web-1kxxayt": {
       "status": "sent",
@@ -2553,8 +2553,8 @@
       },
       "num": 117,
       "lastSent": 1794043827953,
-      "reminders": 1,
-      "lastReminded": 1794130767490
+      "reminders": 2,
+      "lastReminded": 1794411604321
     },
     "web-vzvjkc": {
       "status": "sent",
@@ -2881,6 +2881,40 @@
       },
       "num": 135,
       "lastSent": 1794383509264
+    },
+    "web-1559yf9": {
+      "status": "sent",
+      "firstSeen": 1794411594776,
+      "job": {
+        "id": "web-1559yf9",
+        "title": "Christmas Customer Assistant - Food - Tolworth Simply Food",
+        "company": "jobs.marksandspencer.com",
+        "location": "Kingston area (web find)",
+        "summary": "Christmas Customer Assistant - Food - Tolworth Simply Food In Store Tolworth Surbiton , Greater London Part Time Temporary Contract end date: 26/12/2026",
+        "url": "https://jobs.marksandspencer.com/job-search/in-store/surbiton-greater-london/christmas-customer-assistant-food-tolworth-simply-food/300008385010503",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 73
+      },
+      "num": 136,
+      "lastSent": 1794411603332
+    },
+    "web-14tncml": {
+      "status": "sent",
+      "firstSeen": 1794411594776,
+      "job": {
+        "id": "web-14tncml",
+        "title": "Christmas Jobs in Surbiton | Reed.co.uk",
+        "company": "reed.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find Christmas jobs in Surbiton with Reed.co.uk. Discover Christmas vacancies on offer, in and around Surbiton , helping you Mondays.",
+        "url": "https://www.reed.co.uk/jobs/christmas-jobs-in-surbiton",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 137,
+      "lastSent": 1794411603959
     }
   }
 }
