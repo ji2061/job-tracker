@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 131,
+  "counter": 134,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -968,7 +968,7 @@
         "title": "Weekend work jobs in New Malden, Greater London - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Weekend work jobs in New Malden , Greater London. Explore 400.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend work jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Weekend work jobs in New Malden , Greater London. Explore 378.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in New Malden , Greater London. Weekend work jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-weekend-work/New-Malden%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -1215,7 +1215,7 @@
         "title": "Jobs in Worcester Park, Surrey - November 2026 - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Search for jobs in Worcester Park , Surrey. Explore 350.000+ current vacancies . Full-time, temporary, and part-time jobs. Competitive salary. The latest vacancies from all the top employers and leading job boards in Worcester Park , Surrey. Сompany reviews from real employees. Job email alerts. Fast & Free!",
+        "summary": "Search for jobs in Worcester Park , Surrey. Explore 378.000+ current vacancies . Full-time, temporary, and part-time jobs. Competitive salary. The latest vacancies from all the top employers and leading job boards in Worcester Park , Surrey. Сompany reviews from real employees. Job email alerts. Fast & Free!",
         "url": "https://uk.jooble.org/jobs/Worcester-Park%2C-Surrey",
         "pay": "See listing",
         "source": "web dork",
@@ -1481,7 +1481,7 @@
         "title": "Weekend jobs in New Malden - JOB TODAY",
         "company": "jobtoday.com",
         "location": "Kingston area (web find)",
-        "summary": "Apply to 108 weekend jobs available and hiring now in New Malden . New weekend vacancies are added daily on JOB TODAY. Get set up in seconds & start chatting with employers in minutes!",
+        "summary": "Apply to 102 weekend jobs available and hiring now in New Malden . New weekend vacancies are added daily on JOB TODAY. Get set up in seconds & start chatting with employers in minutes!",
         "url": "https://jobtoday.com/gb/jobs-weekend/new-malden",
         "pay": "See listing",
         "source": "web dork",
@@ -2257,10 +2257,10 @@
       "firstSeen": 1793668958697,
       "job": {
         "id": "web-s5ch8k",
-        "title": "seasonal temporary jobs in Worcester Park KT4 - Indeed.com",
+        "title": "seasonal temporary jobs in Worcester Park KT4 - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "Apply to Seasonal Temporary jobs now hiring in Worcester Park KT4 on Indeed.com, the worlds largest job site.",
+        "summary": "14,380 Seasonal Temporary jobs available in Worcester Park KT4 on Indeed.com. Apply to Randstad, Locum Meds, Recruitment Professionals Group Ltd and more companies!",
         "url": "https://uk.indeed.com/q-seasonal-temporary-l-worcester-park-kt4-jobs.html",
         "pay": "See listing",
         "source": "web dork",
@@ -2344,8 +2344,8 @@
       },
       "num": 106,
       "lastSent": 1793693051878,
-      "reminders": 2,
-      "lastReminded": 1794092989784
+      "reminders": 3,
+      "lastReminded": 1794360165249
     },
     "web-jo6g9f": {
       "status": "sent",
@@ -2363,8 +2363,8 @@
       },
       "num": 107,
       "lastSent": 1793693052616,
-      "reminders": 2,
-      "lastReminded": 1794092990414
+      "reminders": 3,
+      "lastReminded": 1794360165392
     },
     "web-19dm8o": {
       "status": "sent",
@@ -2412,7 +2412,7 @@
         "title": "Weekend Work, Jobs in New Malden (with Salaries) | SimplyHired",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 409 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
+        "summary": "Discover 412 Weekend job opportunities in New Malden . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=weekend&l=new+malden",
         "pay": "See listing",
         "source": "web dork",
@@ -2723,7 +2723,9 @@
         "score": 58
       },
       "num": 126,
-      "lastSent": 1794270739321
+      "lastSent": 1794270739321,
+      "reminders": 1,
+      "lastReminded": 1794360165096
     },
     "web-1urbyxq": {
       "status": "sent",
@@ -2809,6 +2811,57 @@
       },
       "num": 131,
       "lastSent": 1794346204182
+    },
+    "web-1iiq54f": {
+      "status": "sent",
+      "firstSeen": 1794360155329,
+      "job": {
+        "id": "web-1iiq54f",
+        "title": "seasonal staff Jobs in Worcester Park | Careerjet",
+        "company": "careerjet.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "All seasonal staff jobs in Worcester Park on Careerjet.co.uk, the search engine for jobs in the UK",
+        "url": "https://www.careerjet.co.uk/seasonal-staff-jobs/Worcester-Park",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 132,
+      "lastSent": 1794360164204
+    },
+    "web-7yn21h": {
+      "status": "sent",
+      "firstSeen": 1794360155329,
+      "job": {
+        "id": "web-7yn21h",
+        "title": "Worcester Park jobs: 137 vacancies found - Jobijoba.co.uk",
+        "company": "jobijoba.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "November 2026 - Find a list of 137 jobs in Worcester Park with Jobijoba UK. The latest Worcester Park jobs and vacancies from the leading UK&#x27;s companies.",
+        "url": "https://www.jobijoba.co.uk/jobs/jobs-in-worcester-park",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 133,
+      "lastSent": 1794360164730
+    },
+    "web-1eptapp": {
+      "status": "sent",
+      "firstSeen": 1794360155329,
+      "job": {
+        "id": "web-1eptapp",
+        "title": "Jobs in Worcester Park, London | Gumtree",
+        "company": "gumtree.com",
+        "location": "Kingston area (web find)",
+        "summary": "With a great range of positions available in Worcester Park , London today, you&#x27;re sure to find your perfect role! Set up a job alert now and make sure you don&#x27;t miss out.",
+        "url": "https://www.gumtree.com/jobs/uk/worcester-park",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 134,
+      "lastSent": 1794360164913
     }
   }
 }
