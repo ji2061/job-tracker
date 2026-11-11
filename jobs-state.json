@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 134,
+  "counter": 135,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 189 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 187 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -101,7 +101,7 @@
         "title": "Temporary & seasonal jobs in Kingston upon Thames | Locatd",
         "company": "locatd.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "61 live temporary & seasonal jobs within 4 miles of Kingston upon Thames right now (covering Kingston town centre, the Bentall Centre and Surbiton). That means seasonal, fixed-term and Christmas temp roles, pinned on a map with the pay each employer stated.",
+        "summary": "60 live temporary & seasonal jobs within 4 miles of Kingston upon Thames right now (covering Kingston town centre, the Bentall Centre and Surbiton). That means seasonal, fixed-term and Christmas temp roles, pinned on a map with the pay each employer stated.",
         "url": "https://www.locatd.co.uk/jobs/kingston/temporary",
         "pay": "See listing",
         "source": "web dork",
@@ -1804,7 +1804,7 @@
         "title": "Marks & Spencer jobs in Kingston upon Thames - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "823 Marks & Spencer Jobs in Kingston upon Thames . Apply to the latest jobs near you. Learn about salary, employee reviews, benefits, and work-life balance",
+        "summary": "821 Marks & Spencer Jobs in Kingston upon Thames . Apply to the latest jobs near you. Learn about salary, employee reviews, benefits, and work-life balance",
         "url": "https://uk.indeed.com/cmp/Marks-&-Spencer/jobs/l-Kingston-upon-Thames",
         "pay": "See listing",
         "source": "web dork",
@@ -2515,8 +2515,8 @@
       },
       "num": 115,
       "lastSent": 1794007180166,
-      "reminders": 1,
-      "lastReminded": 1794105293195
+      "reminders": 2,
+      "lastReminded": 1794383509899
     },
     "web-1cb564g": {
       "status": "sent",
@@ -2534,8 +2534,8 @@
       },
       "num": 116,
       "lastSent": 1794007181093,
-      "reminders": 1,
-      "lastReminded": 1794105293340
+      "reminders": 2,
+      "lastReminded": 1794383510078
     },
     "web-oauofr": {
       "status": "sent",
@@ -2742,7 +2742,9 @@
         "score": 55
       },
       "num": 127,
-      "lastSent": 1794297018148
+      "lastSent": 1794297018148,
+      "reminders": 1,
+      "lastReminded": 1794383509712
     },
     "web-1y72luu": {
       "status": "sent",
@@ -2862,6 +2864,23 @@
       },
       "num": 134,
       "lastSent": 1794360164913
+    },
+    "web-12st8u4": {
+      "status": "sent",
+      "firstSeen": 1794383501110,
+      "job": {
+        "id": "web-12st8u4",
+        "title": "part time temporary retail jobs in Kingston upon Thames",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Explore 140 Part Time Temporary Retail job openings in Kingston upon Thames on Indeed. Find flexible work near you that fits your schedule from retail, food service, delivery, and more.",
+        "url": "https://uk.indeed.com/q-part-time-temporary-retail-l-kingston-upon-thames-jobs.html?vjk=cc1bb2080d0fd76d",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 48
+      },
+      "num": 135,
+      "lastSent": 1794383509264
     }
   }
 }
