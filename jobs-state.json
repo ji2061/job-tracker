@@ -2420,8 +2420,8 @@
       },
       "num": 110,
       "lastSent": 1793809594029,
-      "reminders": 2,
-      "lastReminded": 1794170316521
+      "reminders": 3,
+      "lastReminded": 1794510885161
     },
     "web-2y5emo": {
       "status": "sent",
@@ -2913,7 +2913,9 @@
         "score": 73
       },
       "num": 136,
-      "lastSent": 1794411603332
+      "lastSent": 1794411603332,
+      "reminders": 1,
+      "lastReminded": 1794510884154
     },
     "web-14tncml": {
       "status": "sent",
@@ -2930,7 +2932,9 @@
         "score": 65
       },
       "num": 137,
-      "lastSent": 1794411603959
+      "lastSent": 1794411603959,
+      "reminders": 1,
+      "lastReminded": 1794510884986
     },
     "web-1o5q57": {
       "status": "sent",
