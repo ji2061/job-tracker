@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 137,
+  "counter": 138,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 187 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 179 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -128,10 +128,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-1ark9q2",
-        "title": "190 Christmas temp jobs in Kingston upon Thames, England",
+        "title": "185 Christmas temp jobs in Kingston upon Thames, England",
         "company": "glassdoor.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 190 open jobs for Christmas temp in Kingston upon Thames .",
+        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 185 open jobs for Christmas temp in Kingston upon Thames .",
         "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-christmas-temp-jobs-SRCH_IL.0,20_IC3288244_KO21,35.htm",
         "pay": "See listing",
         "source": "web dork",
@@ -2818,7 +2818,9 @@
         "score": 55
       },
       "num": 131,
-      "lastSent": 1794346204182
+      "lastSent": 1794346204182,
+      "reminders": 1,
+      "lastReminded": 1794453017076
     },
     "web-1iiq54f": {
       "status": "sent",
@@ -2835,7 +2837,9 @@
         "score": 65
       },
       "num": 132,
-      "lastSent": 1794360164204
+      "lastSent": 1794360164204,
+      "reminders": 1,
+      "lastReminded": 1794453017231
     },
     "web-7yn21h": {
       "status": "sent",
@@ -2852,7 +2856,9 @@
         "score": 50
       },
       "num": 133,
-      "lastSent": 1794360164730
+      "lastSent": 1794360164730,
+      "reminders": 1,
+      "lastReminded": 1794453017383
     },
     "web-1eptapp": {
       "status": "sent",
@@ -2921,6 +2927,23 @@
       },
       "num": 137,
       "lastSent": 1794411603959
+    },
+    "web-1o5q57": {
+      "status": "sent",
+      "firstSeen": 1794453005181,
+      "job": {
+        "id": "web-1o5q57",
+        "title": "Christmas Customer Assistant - Food - Kingston » Kingston-upon-thames ...",
+        "company": "jobs.marksandspencer.com",
+        "location": "Kingston area (web find)",
+        "summary": "Christmas Customer Assistant - Food - Kingston In Store Kingston Kingston-upon-thames , Greater London Full Time Temporary Contract end date: 26/12/2026 £14.74 p/h + £3.00 p/h unsocial premium",
+        "url": "https://jobs.marksandspencer.com/job-search/in-store/kingston-upon-thames-greater-london/christmas-customer-assistant-food-kingston/300008385567185",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 67
+      },
+      "num": 138,
+      "lastSent": 1794453016211
     }
   }
 }
