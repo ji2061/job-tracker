@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 142,
+  "counter": 143,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -1668,10 +1668,10 @@
       "firstSeen": 1793013531590,
       "job": {
         "id": "web-1g4odwr",
-        "title": "Receptionist jobs in Kingston upon Thames, Greater London - September ...",
+        "title": "Receptionist jobs in Kingston upon Thames, Greater London - October ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "The 128 receptionist jobs in Kingston upon Thames , Greater London can cover very different workplaces. You might be greeting visitors in a corporate office, booking patients into a healthcare practice, checking guests into a hotel or combining reception with general office administration.",
+        "summary": "Find 141 live Receptionist jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/receptionist-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1975,7 +1975,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 69 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www.CV-library.co.uk.",
+        "summary": "Find 63 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames?jobId=225752160&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M61QN6QKAMX4DDQ5QCFRZ5FP",
         "pay": "See listing",
         "source": "web dork",
@@ -2477,8 +2477,8 @@
       },
       "num": 113,
       "lastSent": 1793988527883,
-      "reminders": 2,
-      "lastReminded": 1794346204517
+      "reminders": 3,
+      "lastReminded": 1794606122823
     },
     "web-118wacp": {
       "status": "sent",
@@ -2496,8 +2496,8 @@
       },
       "num": 114,
       "lastSent": 1793988528331,
-      "reminders": 2,
-      "lastReminded": 1794346204734
+      "reminders": 3,
+      "lastReminded": 1794606123025
     },
     "web-g57l0m": {
       "status": "sent",
@@ -2705,8 +2705,8 @@
       },
       "num": 125,
       "lastSent": 1794183095870,
-      "reminders": 1,
-      "lastReminded": 1794297019091
+      "reminders": 2,
+      "lastReminded": 1794606122573
     },
     "web-o4pao6": {
       "status": "sent",
@@ -3022,6 +3022,23 @@
       },
       "num": 142,
       "lastSent": 1794583990300
+    },
+    "web-rqzepu": {
+      "status": "sent",
+      "firstSeen": 1794606112564,
+      "job": {
+        "id": "web-rqzepu",
+        "title": "Seasonal jobs in Kingston upon Thames, Greater London - November 2026 ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 258 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames?jobId=job.3LHwPkC2gtrtEWB0mNIDeG2fx58&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M6G706KT42C8B92AQCM730J7",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 143,
+      "lastSent": 1794606121232
     }
   }
 }
