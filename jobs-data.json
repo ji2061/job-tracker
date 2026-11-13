@@ -1,7 +1,7 @@
 {
-  "updatedAt": "12 Nov 2026",
+  "updatedAt": "13 Nov 2026",
   "location": "KT1 3HZ · bus-only · 16+",
-  "note": "Tonight's scrape found nothing new - showing previous results.",
+  "note": "No keys set (REED_API_KEY, ADZUNA_APP_ID + ADZUNA_APP_KEY) - add them as GitHub repo secrets for live results.",
   "jobs": [
     {
       "id": "web-1x5vi1l",
@@ -34,41 +34,51 @@
       "source": "web dork"
     },
     {
+      "id": "web-1559yf9",
+      "title": "Christmas Customer Assistant - Food - Tolworth Simply Food",
+      "company": "jobs.marksandspencer.com",
+      "location": "Kingston area (web find)",
+      "summary": "Christmas Customer Assistant - Food - Tolworth Simply Food In Store Tolworth Surbiton , Greater London Part Time Temporary Contract end date: 26/12/2026",
+      "url": "https://jobs.marksandspencer.com/job-search/in-store/surbiton-greater-london/christmas-customer-assistant-food-tolworth-simply-food/300008385010503",
+      "pay": "See listing",
+      "source": "web dork"
+    },
+    {
       "id": "web-1izfc4f",
       "title": "christmas temporary jobs in kingston upon thames",
       "company": "simplyhired.co.uk",
       "location": "Kingston area (web find)",
-      "summary": "Discover 179 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+      "summary": "Discover 177 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
       "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
       "pay": "See listing",
       "source": "web dork"
     },
     {
-      "id": "web-1o5q57",
-      "title": "Christmas Customer Assistant - Food - Kingston » Kingston-upon-thames ...",
-      "company": "jobs.marksandspencer.com",
+      "id": "web-1e3t1yq",
+      "title": "Temporary Christmas Jobs in Kingston Upon Thames | Reed.co.uk",
+      "company": "reed.co.uk",
       "location": "Kingston area (web find)",
-      "summary": "Christmas Customer Assistant - Food - Kingston In Store Kingston Kingston-upon-thames , Greater London Full Time Temporary Contract end date: 26/12/2026 £14.74 p/h + £3.00 p/h unsocial premium",
-      "url": "https://jobs.marksandspencer.com/job-search/in-store/kingston-upon-thames-greater-london/christmas-customer-assistant-food-kingston/300008385567185",
+      "summary": "Find Temporary Christmas jobs in Kingston Upon Thames with Reed.co.uk. Discover Temporary Christmas vacancies on offer, in and around Kingston Upon Thames , helping you Mondays.",
+      "url": "https://www.reed.co.uk/jobs/christmas-temporary-jobs-in-kingston-upon-thames",
       "pay": "See listing",
       "source": "web dork"
     },
     {
       "id": "web-13wdlfz",
-      "title": "11 Temporary christmas job jobs in Kingston upon Thames, England",
+      "title": "177 Temporary christmas jobs in Kingston upon Thames, England",
       "company": "glassdoor.co.uk",
       "location": "Kingston area (web find)",
-      "summary": "There are open temporary christmas job jobs in several cities near Kingston upon Thames , England including London, England, Aldershot, England, Northolt, England, Maidenhead, England, Orpington, England, Kingston upon Thames , England, Watford, East of England, England, Hayes, England, Teddington, South West England, England.",
+      "summary": "Search Temporary christmas jobs in Kingston upon Thames , England with company ratings and salaries. 177 open jobs for Temporary christmas in Kingston upon Thames .",
       "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-temporary-christmas-job-jobs-SRCH_IL.0,20_IC3288244_KO21,44.htm",
       "pay": "See listing",
       "source": "web dork"
     },
     {
       "id": "web-1ark9q2",
-      "title": "185 Christmas temp jobs in Kingston upon Thames, England",
+      "title": "177 Christmas temp jobs in Kingston upon Thames, England",
       "company": "glassdoor.co.uk",
       "location": "Kingston area (web find)",
-      "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 185 open jobs for Christmas temp in Kingston upon Thames .",
+      "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 177 open jobs for Christmas temp in Kingston upon Thames .",
       "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-christmas-temp-jobs-SRCH_IL.0,20_IC3288244_KO21,35.htm",
       "pay": "See listing",
       "source": "web dork"
@@ -100,6 +110,16 @@
       "location": "Kingston area (web find)",
       "summary": "266 Christmas jobs in Kingston Upon Thames on totaljobs. Get instant job matches for companies hiring now for Christmas jobs in Kingston Upon Thames like Sales Advising, Management, Nursery and more. We&#x27;ll get you noticed.",
       "url": "https://www.totaljobs.com/jobs/christmas/in-kingston-upon-thames",
+      "pay": "See listing",
+      "source": "web dork"
+    },
+    {
+      "id": "web-1j00rhl",
+      "title": "Lidl Job Search: Find your new job here!",
+      "company": "careers.lidl.co.uk",
+      "location": "Kingston area (web find)",
+      "summary": "Retail Operations Graduate Management Programme 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Student & Graduate £40,000 per annum*",
+      "url": "https://careers.lidl.co.uk/jobsearch?page=1&sort_field=location.distance&sort_order=asc&baseSearch=%7B%22location%22:%7B%22midPointName%22:%22Surbiton,+Greater+London%22,%22latitude%22:51.3763,%22longitude%22:-0.2791,%22max_distance%22:%222%22%7D%7D",
       "pay": "See listing",
       "source": "web dork"
     }
