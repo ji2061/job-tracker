@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 138,
+  "counter": 142,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -2648,8 +2648,8 @@
       },
       "num": 122,
       "lastSent": 1794170316079,
-      "reminders": 1,
-      "lastReminded": 1794270740080
+      "reminders": 2,
+      "lastReminded": 1794583990482
     },
     "web-xb7b9f": {
       "status": "sent",
@@ -2667,8 +2667,8 @@
       },
       "num": 123,
       "lastSent": 1794170316226,
-      "reminders": 1,
-      "lastReminded": 1794270740232
+      "reminders": 2,
+      "lastReminded": 1794583990651
     },
     "web-15xmhyq": {
       "status": "sent",
@@ -2686,8 +2686,8 @@
       },
       "num": 124,
       "lastSent": 1794183095400,
-      "reminders": 1,
-      "lastReminded": 1794297018787
+      "reminders": 2,
+      "lastReminded": 1794583990846
     },
     "web-1qyk3nj": {
       "status": "sent",
@@ -2716,7 +2716,7 @@
         "title": "Jobs in Tolworth, Greater London - November 2026 - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Search for jobs in Tolworth , Greater London. Explore 393.000+ current vacancies. Full-time, temporary, and part-time jobs . Competitive salary. The latest vacancies from all the top employers and leading job boards in Tolworth , Greater London. Сompany reviews from real employees. Job email alerts. Fast & Free!",
+        "summary": "Search for jobs in Tolworth , Greater London. Explore 378.000+ current vacancies. Full-time, temporary, and part-time jobs . Competitive salary. The latest vacancies from all the top employers and leading job boards in Tolworth , Greater London. Сompany reviews from real employees. Job email alerts. Fast & Free!",
         "url": "https://uk.jooble.org/jobs/Tolworth%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -2954,6 +2954,74 @@
       "lastSent": 1794453016211,
       "reminders": 1,
       "lastReminded": 1794554802272
+    },
+    "web-17d157y": {
+      "status": "sent",
+      "firstSeen": 1794583978641,
+      "job": {
+        "id": "web-17d157y",
+        "title": "Seasonal jobs in Kingston upon Thames, Greater London - November 2026 ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 231 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames?jobId=225766286&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M6VBS3NM4J644FZ60PNXN4RP",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 139,
+      "lastSent": 1794583987229
+    },
+    "web-yna1hc": {
+      "status": "sent",
+      "firstSeen": 1794583978641,
+      "job": {
+        "id": "web-yna1hc",
+        "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames?jobId=225626520&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M4NR0RM5THQPRVNTNJTK7ZCF",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 140,
+      "lastSent": 1794583989949
+    },
+    "web-15fd1em": {
+      "status": "sent",
+      "firstSeen": 1794583978641,
+      "job": {
+        "id": "web-15fd1em",
+        "title": "Kingston jobs - November 2026 | CV Library",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "In this permanent position, you will cover a designated area across Kingston upon Thames and the surrounding area. You will be responsible for carrying out general plumbing repairs, maintenance, and servicing within customers&#x27; homes and private residential properties....",
+        "url": "https://www.cv-library.co.uk/kingston-jobs-jobs",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 141,
+      "lastSent": 1794583990142
+    },
+    "web-b67k0h": {
+      "status": "sent",
+      "firstSeen": 1794583978641,
+      "job": {
+        "id": "web-b67k0h",
+        "title": "Customer Service jobs in Kingston upon Thames, Greater London - June ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 2699 live Customer Service jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/customer-service-jobs-in-kingston-upon-thames?search_id=search.01KVRMHC59XXYW4SBKQRS7QZ6Q",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 142,
+      "lastSent": 1794583990300
     }
   }
 }
