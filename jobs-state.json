@@ -2458,8 +2458,8 @@
       },
       "num": 112,
       "lastSent": 1793919479104,
-      "reminders": 2,
-      "lastReminded": 1794243508696
+      "reminders": 3,
+      "lastReminded": 1794554803410
     },
     "web-1rat2aq": {
       "status": "sent",
@@ -2629,8 +2629,8 @@
       },
       "num": 121,
       "lastSent": 1794170315203,
-      "reminders": 1,
-      "lastReminded": 1794270739965
+      "reminders": 2,
+      "lastReminded": 1794554803588
     },
     "web-11rlxi3": {
       "status": "sent",
@@ -2951,7 +2951,9 @@
         "score": 67
       },
       "num": 138,
-      "lastSent": 1794453016211
+      "lastSent": 1794453016211,
+      "reminders": 1,
+      "lastReminded": 1794554802272
     }
   }
 }
