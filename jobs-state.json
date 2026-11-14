@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 143,
+  "counter": 144,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -8,7 +8,7 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-1x5vi1l",
-        "title": "Urgent! Temporary christmas jobs in Kingston upon Thames ... - Jooble",
+        "title": "Urgent! Temporary christmas jobs in Kingston upon Thames, Greater ...",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
         "summary": "Apply for Temporary christmas jobs in Kingston upon Thames , Greater London. Explore 390.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Temporary christmas jobs is easy to find. Start your new career right now!",
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 181 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 185 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -128,10 +128,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-1ark9q2",
-        "title": "181 Christmas temp jobs in Kingston upon Thames, England",
+        "title": "185 Christmas temp jobs in Kingston upon Thames, England",
         "company": "glassdoor.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 181 open jobs for Christmas temp in Kingston upon Thames .",
+        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 185 open jobs for Christmas temp in Kingston upon Thames .",
         "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-christmas-temp-jobs-SRCH_IL.0,20_IC3288244_KO21,35.htm",
         "pay": "See listing",
         "source": "web dork",
@@ -661,7 +661,7 @@
       "firstSeen": 1792391242047,
       "job": {
         "id": "web-1icbwml",
-        "title": "Christmas Temporary Job in Kingston upon Thames (with Salaries ... - Indeed",
+        "title": "christmas temporary jobs in Kingston upon Thames",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
         "summary": "217 Christmas Temporary jobs available in Kingston upon Thames on Indeed.com. Apply to Majestic Wine Warehouses, YoungCapital, Pandora Jewelry and more companies!",
@@ -1060,10 +1060,10 @@
       "firstSeen": 1792606115029,
       "job": {
         "id": "web-13wdlfz",
-        "title": "177 Temporary christmas jobs in Kingston upon Thames, England",
+        "title": "185 Temporary christmas jobs in Kingston upon Thames, England",
         "company": "glassdoor.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Search Temporary christmas jobs in Kingston upon Thames , England with company ratings and salaries. 177 open jobs for Temporary christmas in Kingston upon Thames .",
+        "summary": "Search Temporary christmas jobs in Kingston upon Thames , England with company ratings and salaries. 185 open jobs for Temporary christmas in Kingston upon Thames .",
         "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-temporary-christmas-job-jobs-SRCH_IL.0,20_IC3288244_KO21,44.htm",
         "pay": "See listing",
         "source": "web dork",
@@ -2561,7 +2561,7 @@
       "firstSeen": 1794080779837,
       "job": {
         "id": "web-vzvjkc",
-        "title": "Urgent! Christmas temp jobs in Kingston upon Thames, Greater ... - Jooble",
+        "title": "Urgent! Christmas temp jobs in Kingston upon Thames, Greater London ...",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
         "summary": "Apply for Christmas temp jobs in Kingston upon Thames , Greater London. Explore 378.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas temp jobs is easy to find. Start your new career right now!",
@@ -2781,8 +2781,8 @@
       },
       "num": 129,
       "lastSent": 1794346202970,
-      "reminders": 1,
-      "lastReminded": 1794435641712
+      "reminders": 2,
+      "lastReminded": 1794669239549
     },
     "web-e5ijjv": {
       "status": "sent",
@@ -2800,8 +2800,8 @@
       },
       "num": 130,
       "lastSent": 1794346203932,
-      "reminders": 1,
-      "lastReminded": 1794435641917
+      "reminders": 2,
+      "lastReminded": 1794669239771
     },
     "web-td0bg2": {
       "status": "sent",
@@ -2819,8 +2819,8 @@
       },
       "num": 131,
       "lastSent": 1794346204182,
-      "reminders": 1,
-      "lastReminded": 1794453017076
+      "reminders": 2,
+      "lastReminded": 1794669240000
     },
     "web-1iiq54f": {
       "status": "sent",
@@ -3039,6 +3039,23 @@
       },
       "num": 143,
       "lastSent": 1794606121232
+    },
+    "web-zmw9km": {
+      "status": "sent",
+      "firstSeen": 1794669230015,
+      "job": {
+        "id": "web-zmw9km",
+        "title": "Christmas Customer Assistant - Food - Kingston » Kingston-upon-thames ...",
+        "company": "jobs.marksandspencer.com",
+        "location": "Kingston area (web find)",
+        "summary": "Christmas Customer Assistant - Food - Kingston In Store Kingston Kingston-upon-thames , Greater London Part Time Temporary Contract end date: 26/12/2026 £14.74 p/h",
+        "url": "https://jobs.marksandspencer.com/job-search/in-store/kingston-upon-thames-greater-london/christmas-customer-assistant-food-kingston/300008397049173",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 73
+      },
+      "num": 144,
+      "lastSent": 1794669238817
     }
   }
 }
