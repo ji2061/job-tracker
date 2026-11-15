@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 147,
+  "counter": 152,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -661,7 +661,7 @@
       "firstSeen": 1792391242047,
       "job": {
         "id": "web-1icbwml",
-        "title": "christmas temporary jobs in Kingston upon Thames",
+        "title": "Christmas Temporary Job in Kingston upon Thames (with Salaries ... - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
         "summary": "217 Christmas Temporary jobs available in Kingston upon Thames on Indeed.com. Apply to Majestic Wine Warehouses, YoungCapital, Pandora Jewelry and more companies!",
@@ -1215,7 +1215,7 @@
         "title": "Jobs in Worcester Park, Surrey - November 2026 - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Search for jobs in Worcester Park , Surrey. Explore 378.000+ current vacancies . Full-time, temporary, and part-time jobs. Competitive salary. The latest vacancies from all the top employers and leading job boards in Worcester Park , Surrey. Сompany reviews from real employees. Job email alerts. Fast & Free!",
+        "summary": "Search for jobs in Worcester Park , Surrey. Explore 383.000+ current vacancies . Full-time, temporary, and part-time jobs. Competitive salary. The latest vacancies from all the top employers and leading job boards in Worcester Park , Surrey. Сompany reviews from real employees. Job email alerts. Fast & Free!",
         "url": "https://uk.jooble.org/jobs/Worcester-Park%2C-Surrey",
         "pay": "See listing",
         "source": "web dork",
@@ -2070,7 +2070,7 @@
         "title": "Christmas Job in Kingston upon Thames (with Salaries) - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "Apply to Christmas jobs now hiring in Kingston upon Thames on Indeed.com, the worlds largest job site .",
+        "summary": "Apply to Christmas jobs now hiring in Kingston upon Thames on Indeed.com, the worlds largest job site.",
         "url": "https://uk.indeed.com/q-christmas-jobs-l-kingston-upon-thames-jobs.html?vjk=62331190c352cbd6",
         "pay": "See listing",
         "source": "web dork",
@@ -2827,7 +2827,7 @@
       "firstSeen": 1794360155329,
       "job": {
         "id": "web-1iiq54f",
-        "title": "seasonal staff Jobs in Worcester Park | Careerjet",
+        "title": "seasonal staff Jobs in Worcester Park - Careerjet",
         "company": "careerjet.co.uk",
         "location": "Kingston area (web find)",
         "summary": "All seasonal staff jobs in Worcester Park on Careerjet.co.uk, the search engine for jobs in the UK",
@@ -3084,7 +3084,9 @@
         "score": 57
       },
       "num": 145,
-      "lastSent": 1794686344376
+      "lastSent": 1794686344376,
+      "reminders": 1,
+      "lastReminded": 1794780606793
     },
     "web-gyvan9": {
       "status": "sent",
@@ -3101,7 +3103,9 @@
         "score": 55
       },
       "num": 146,
-      "lastSent": 1794686347311
+      "lastSent": 1794686347311,
+      "reminders": 1,
+      "lastReminded": 1794780606978
     },
     "web-1puo1i3": {
       "status": "sent",
@@ -3118,7 +3122,94 @@
         "score": 55
       },
       "num": 147,
-      "lastSent": 1794686347496
+      "lastSent": 1794686347496,
+      "reminders": 1,
+      "lastReminded": 1794780607206
+    },
+    "web-139t4xf": {
+      "status": "sent",
+      "firstSeen": 1794780595364,
+      "job": {
+        "id": "web-139t4xf",
+        "title": "STWC Christmas Grotto | Royal Borough of Kingston upon Thames",
+        "company": "kingston.gov.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Join us for a wonderful winter celebration and visit Santa&#x27;s grotto ahead of Christmas , at our amazing charity warehouse! For those bringing children at primary school age and under, Santa will have gifts.",
+        "url": "https://www.kingston.gov.uk/events/stwc-christmas-grotto",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 148,
+      "lastSent": 1794780605418
+    },
+    "web-1jg7n88": {
+      "status": "sent",
+      "firstSeen": 1794780595364,
+      "job": {
+        "id": "web-1jg7n88",
+        "title": "Amazon warehouse jobs in Worcester Park, Surrey",
+        "company": "uk.jooble.org",
+        "location": "Kingston area (web find)",
+        "summary": "Apply for Amazon warehouse jobs in Worcester Park , Surrey. Explore 119.000+ new and current Job vacancies . Competitive salary. Full-time, temporary, and part-time jobs. Fast & Free. Top employers in Worcester Park , Surrey. Amazon warehouse jobs is easy to find. Start your new career right now!",
+        "url": "https://uk.jooble.org/jobs-amazon-warehouse/Worcester-Park%2C-Surrey",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 58
+      },
+      "num": 149,
+      "lastSent": 1794780605957
+    },
+    "web-ec4wf1": {
+      "status": "sent",
+      "firstSeen": 1794780595364,
+      "job": {
+        "id": "web-ec4wf1",
+        "title": "Seasonal Associate Work, jobs in Worcester Park (with Salaries ...",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Seasonal Associate jobs now hiring in Worcester Park on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-seasonal-associate-l-worcester-park-jobs.html",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 55
+      },
+      "num": 150,
+      "lastSent": 1794780606126
+    },
+    "web-12mmqe6": {
+      "status": "sent",
+      "firstSeen": 1794780595364,
+      "job": {
+        "id": "web-12mmqe6",
+        "title": "Urgent! Jobs in Worcester Park - 34 current vacancies in Worcester Park ...",
+        "company": "uk.jobsora.com",
+        "location": "Kingston area (web find)",
+        "summary": "Search 1000s jobs in Worcester Park and apply for the vacancy in seconds with Jobsora.com! Start your new career with us today!",
+        "url": "https://uk.jobsora.com/jobs-worcester-park",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 151,
+      "lastSent": 1794780606330
+    },
+    "web-1d91luw": {
+      "status": "sent",
+      "firstSeen": 1794780595364,
+      "job": {
+        "id": "web-1d91luw",
+        "title": "Chessington World of Adventures Jobs, Work in Worcester Park KT4 (with ...",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Chessington World of Adventures jobs now hiring in Worcester Park KT4 on Indeed.com, the worlds largest job site.",
+        "url": "https://uk.indeed.com/q-chessington-world-of-adventures-l-worcester-park-kt4-jobs.html",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 40
+      },
+      "num": 152,
+      "lastSent": 1794780606594
     }
   }
 }
