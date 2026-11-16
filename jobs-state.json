@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 152,
+  "counter": 157,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -128,10 +128,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-1ark9q2",
-        "title": "193 Christmas temp jobs in Kingston upon Thames, England",
+        "title": "192 Christmas temp jobs in Kingston upon Thames, England",
         "company": "glassdoor.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 193 open jobs for Christmas temp in Kingston upon Thames .",
+        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 192 open jobs for Christmas temp in Kingston upon Thames .",
         "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-christmas-temp-jobs-SRCH_IL.0,20_IC3288244_KO21,35.htm",
         "pay": "See listing",
         "source": "web dork",
@@ -236,7 +236,7 @@
         "title": "Kingston Upon Thames jobs - November 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 129 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
+        "summary": "Find 123 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -266,7 +266,7 @@
         "title": "Kingston Upon Thames United Kingdom jobs - CV-Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 115 live Kingston Upon Thames United Kingdom jobs on www. CV -library.co.uk.",
+        "summary": "Find 114 live Kingston Upon Thames United Kingdom jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-united-kingdom-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -1060,10 +1060,10 @@
       "firstSeen": 1792606115029,
       "job": {
         "id": "web-13wdlfz",
-        "title": "193 Temporary christmas jobs in Kingston upon Thames, England",
+        "title": "179 Temporary christmas jobs in Kingston upon Thames, England",
         "company": "glassdoor.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Search Temporary christmas jobs in Kingston upon Thames , England with company ratings and salaries. 193 open jobs for Temporary christmas in Kingston upon Thames .",
+        "summary": "Search Temporary christmas jobs in Kingston upon Thames , England with company ratings and salaries. 179 open jobs for Temporary christmas in Kingston upon Thames .",
         "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-temporary-christmas-job-jobs-SRCH_IL.0,20_IC3288244_KO21,44.htm",
         "pay": "See listing",
         "source": "web dork",
@@ -1535,10 +1535,10 @@
       "firstSeen": 1792949051207,
       "job": {
         "id": "web-na9gvz",
-        "title": "Council jobs in Kingston upon Thames - CV-Library.co.uk",
+        "title": "Council jobs in Kingston upon Thames, Greater London",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 88 live Council jobs in Kingston upon Thames on CV -Library. 30 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "summary": "Find 268 live Council jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/council-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1649,10 +1649,10 @@
       "firstSeen": 1793013531590,
       "job": {
         "id": "web-1q4qpdg",
-        "title": "Estate Agent jobs in Kingston upon Thames, Greater London - September ...",
+        "title": "Estate Agent jobs in Kingston upon Thames, Greater London - November ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 63 live Estate Agent jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 53 live Estate Agent jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/estate-agent-jobs-in-kingston-upon-thames",
         "pay": "See listing",
         "source": "web dork",
@@ -2667,8 +2667,8 @@
       },
       "num": 123,
       "lastSent": 1794170316226,
-      "reminders": 2,
-      "lastReminded": 1794583990651
+      "reminders": 3,
+      "lastReminded": 1794823005365
     },
     "web-15xmhyq": {
       "status": "sent",
@@ -2686,8 +2686,8 @@
       },
       "num": 124,
       "lastSent": 1794183095400,
-      "reminders": 2,
-      "lastReminded": 1794583990846
+      "reminders": 3,
+      "lastReminded": 1794823005576
     },
     "web-1qyk3nj": {
       "status": "sent",
@@ -2705,8 +2705,8 @@
       },
       "num": 125,
       "lastSent": 1794183095870,
-      "reminders": 2,
-      "lastReminded": 1794606122573
+      "reminders": 3,
+      "lastReminded": 1794823005717
     },
     "web-o4pao6": {
       "status": "sent",
@@ -3210,6 +3210,106 @@
       },
       "num": 152,
       "lastSent": 1794780606594
+    },
+    "web-1jm4rhn": {
+      "status": "sent",
+      "firstSeen": 1794822994782,
+      "job": {
+        "id": "web-1jm4rhn",
+        "title": "Seasonal jobs in Kingston upon Thames, Greater London - October 2026 ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 258 live Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/seasonal-jobs-in-kingston-upon-thames?jobId=job.3LHwPkC2gtrtEWB0mNIDeG2fx58&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M69YWXJB8H9P1QRDRQHMGJZF",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 153,
+      "lastSent": 1794823003828
+    },
+    "web-1uokvqs": {
+      "status": "sent",
+      "firstSeen": 1794822994782,
+      "job": {
+        "id": "web-1uokvqs",
+        "title": "65,640 Time for you jobs in Kingston upon Thames, England",
+        "company": "glassdoor.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Most relevant Boux 3.9 Sales Assistant- Christmas Temp Kingston upon Thames , England Provide customers with expert bra fit, from the sales floor through to the fitting suite and closing of the purchase (subject to base contract).&hellip; Discover more 24h sales representative jobs in Kingston upon Thames , England Kingston upon Thames , England jobs Boux jobs in Kingston upon Thames , England ...",
+        "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-time-for-you-jobs-SRCH_IL.0,20_IC3288244_KO21,33.htm",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 154,
+      "lastSent": 1794823004633
+    },
+    "web-1fd08q5": {
+      "status": "sent",
+      "firstSeen": 1794822994782,
+      "job": {
+        "id": "web-1fd08q5",
+        "title": "The Entertainer hiring Seasonal Sales Assistant Job in Kingston upon ...",
+        "company": "glassdoor.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Want to work in a busy toy shop at the best time of year? At The Entertainer, Kingston Upon Thames in the Bentalls Centre, we love to create a special experience for the customers who come through our doors, helping to find the perfect toy or gift, keeping the shelves full and our stores welcoming. At Christmas , this is no different!",
+        "url": "https://www.glassdoor.co.uk/job-listing/seasonal-sales-assistant-the-entertainer-JV_IC3288244_KO0,24_KE25,40.htm?jl=1010306464859",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 155,
+      "lastSent": 1794823004872
+    },
+    "web-7h68ad": {
+      "status": "sent",
+      "firstSeen": 1794822994782,
+      "job": {
+        "id": "web-7h68ad",
+        "title": "1,224 Retail sales assistant jobs in Kingston upon Thames, England",
+        "company": "glassdoor.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Search Retail sales assistant jobs in Kingston upon Thames , England with company ratings and salaries. 1,224 open jobs for Retail sales assistant in Kingston upon Thames .",
+        "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-retail-sales-assistant-jobs-SRCH_IL.0,20_IC3288244_KO21,43.htm",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 156,
+      "lastSent": 1794823005021
+    },
+    "web-1tpceih": {
+      "status": "sent",
+      "firstSeen": 1794822994782,
+      "job": {
+        "id": "web-1tpceih",
+        "title": "Reiss jobs in Kingston upon Thames (2026) | Glassdoor",
+        "company": "glassdoor.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "53 Reiss jobs in Kingston upon Thames , England. Search job openings, see if they fit - company salaries, reviews, and more posted by Reiss employees.",
+        "url": "https://www.glassdoor.co.uk/Jobs/Reiss-Kingston-upon-Thames-Jobs-EI_IE504341.0,5_IL.6,26_IC3288244.htm",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 157,
+      "lastSent": 1794823005185
+    },
+    "web-1sdcmgw": {
+      "status": "new",
+      "firstSeen": 1794822994782,
+      "job": {
+        "id": "web-1sdcmgw",
+        "title": "6,451 Retail jobs in Kingston upon Thames, England",
+        "company": "glassdoor.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Search Retail jobs in Kingston upon Thames , England with company ratings and salaries. 6,451 open jobs for Retail in Kingston upon Thames .",
+        "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-england-retail-jobs-SRCH_IL.0,28_IC3288244_KO29,35.htm",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      }
     }
   }
 }
