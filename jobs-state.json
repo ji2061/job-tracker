@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 157,
+  "counter": 158,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -8,7 +8,7 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-1x5vi1l",
-        "title": "Urgent! Temporary christmas jobs in Kingston upon Thames, Greater ...",
+        "title": "Urgent! Temporary christmas jobs in Kingston upon Thames ... - Jooble",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
         "summary": "Apply for Temporary christmas jobs in Kingston upon Thames , Greater London. Explore 390.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Temporary christmas jobs is easy to find. Start your new career right now!",
@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 193 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 185 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -128,10 +128,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-1ark9q2",
-        "title": "192 Christmas temp jobs in Kingston upon Thames, England",
+        "title": "179 Christmas temp jobs in Kingston upon Thames, England",
         "company": "glassdoor.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 192 open jobs for Christmas temp in Kingston upon Thames .",
+        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 179 open jobs for Christmas temp in Kingston upon Thames .",
         "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-christmas-temp-jobs-SRCH_IL.0,20_IC3288244_KO21,35.htm",
         "pay": "See listing",
         "source": "web dork",
@@ -2515,8 +2515,8 @@
       },
       "num": 115,
       "lastSent": 1794007180166,
-      "reminders": 3,
-      "lastReminded": 1794621179050
+      "reminders": 4,
+      "lastReminded": 1794858979875
     },
     "web-1cb564g": {
       "status": "sent",
@@ -2724,8 +2724,8 @@
       },
       "num": 126,
       "lastSent": 1794270739321,
-      "reminders": 2,
-      "lastReminded": 1794621177763
+      "reminders": 3,
+      "lastReminded": 1794858979528
     },
     "web-1urbyxq": {
       "status": "sent",
@@ -2743,8 +2743,8 @@
       },
       "num": 127,
       "lastSent": 1794297018148,
-      "reminders": 2,
-      "lastReminded": 1794621178881
+      "reminders": 3,
+      "lastReminded": 1794858979725
     },
     "web-1y72luu": {
       "status": "sent",
@@ -3297,7 +3297,7 @@
       "lastSent": 1794823005185
     },
     "web-1sdcmgw": {
-      "status": "new",
+      "status": "sent",
       "firstSeen": 1794822994782,
       "job": {
         "id": "web-1sdcmgw",
@@ -3309,7 +3309,9 @@
         "pay": "See listing",
         "source": "web dork",
         "score": 50
-      }
+      },
+      "num": 158,
+      "lastSent": 1794858978551
     }
   }
 }
