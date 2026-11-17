@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 158,
+  "counter": 159,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -3198,7 +3198,9 @@
         "score": 50
       },
       "num": 151,
-      "lastSent": 1794780606330
+      "lastSent": 1794780606330,
+      "reminders": 1,
+      "lastReminded": 1794914177491
     },
     "web-1d91luw": {
       "status": "sent",
@@ -3215,7 +3217,9 @@
         "score": 40
       },
       "num": 152,
-      "lastSent": 1794780606594
+      "lastSent": 1794780606594,
+      "reminders": 1,
+      "lastReminded": 1794914177717
     },
     "web-1jm4rhn": {
       "status": "sent",
@@ -3232,7 +3236,9 @@
         "score": 65
       },
       "num": 153,
-      "lastSent": 1794823003828
+      "lastSent": 1794823003828,
+      "reminders": 1,
+      "lastReminded": 1794914177908
     },
     "web-1uokvqs": {
       "status": "sent",
@@ -3318,6 +3324,23 @@
       },
       "num": 158,
       "lastSent": 1794858978551
+    },
+    "web-1exf4y4": {
+      "status": "sent",
+      "firstSeen": 1794914167667,
+      "job": {
+        "id": "web-1exf4y4",
+        "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 72 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames?jobId=225626520&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M4EBNVTN8JH828ZCQN34T1FA",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 159,
+      "lastSent": 1794914176629
     }
   }
 }
