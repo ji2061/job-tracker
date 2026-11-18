@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 188 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 196 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -128,10 +128,10 @@
       "firstSeen": 1792365886246,
       "job": {
         "id": "web-1ark9q2",
-        "title": "179 Christmas temp jobs in Kingston upon Thames, England",
+        "title": "186 Christmas temp jobs in Kingston upon Thames, England",
         "company": "glassdoor.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 179 open jobs for Christmas temp in Kingston upon Thames .",
+        "summary": "Search Christmas temp jobs in Kingston upon Thames , England with company ratings and salaries. 186 open jobs for Christmas temp in Kingston upon Thames .",
         "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-christmas-temp-jobs-SRCH_IL.0,20_IC3288244_KO21,35.htm",
         "pay": "See listing",
         "source": "web dork",
@@ -2762,8 +2762,8 @@
       },
       "num": 128,
       "lastSent": 1794325915676,
-      "reminders": 2,
-      "lastReminded": 1794643942807
+      "reminders": 3,
+      "lastReminded": 1794967015712
     },
     "web-1vx4ltt": {
       "status": "sent",
@@ -3312,7 +3312,9 @@
         "score": 50
       },
       "num": 157,
-      "lastSent": 1794823005185
+      "lastSent": 1794823005185,
+      "reminders": 1,
+      "lastReminded": 1794967014874
     },
     "web-1sdcmgw": {
       "status": "sent",
@@ -3329,7 +3331,9 @@
         "score": 50
       },
       "num": 158,
-      "lastSent": 1794858978551
+      "lastSent": 1794858978551,
+      "reminders": 1,
+      "lastReminded": 1794967015558
     },
     "web-1exf4y4": {
       "status": "sent",
