@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 160,
+  "counter": 163,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -236,7 +236,7 @@
         "title": "Kingston Upon Thames jobs - November 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 123 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
+        "summary": "Find 125 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -2838,8 +2838,8 @@
       },
       "num": 132,
       "lastSent": 1794360164204,
-      "reminders": 2,
-      "lastReminded": 1794699430869
+      "reminders": 3,
+      "lastReminded": 1795075463541
     },
     "web-7yn21h": {
       "status": "sent",
@@ -2857,8 +2857,8 @@
       },
       "num": 133,
       "lastSent": 1794360164730,
-      "reminders": 2,
-      "lastReminded": 1794713017774
+      "reminders": 3,
+      "lastReminded": 1795075463737
     },
     "web-1eptapp": {
       "status": "sent",
@@ -2876,8 +2876,8 @@
       },
       "num": 134,
       "lastSent": 1794360164913,
-      "reminders": 2,
-      "lastReminded": 1794713018913
+      "reminders": 3,
+      "lastReminded": 1795075463940
     },
     "web-12st8u4": {
       "status": "sent",
@@ -3001,7 +3001,7 @@
         "title": "Kingston jobs - November 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "In this permanent position, you will cover a designated area across Kingston upon Thames and the surrounding area. You will be responsible for carrying out general plumbing repairs, maintenance, and servicing within customers&#x27; homes and private residential properties....",
+        "summary": "Quantity Surveyor (QS) Location: Kingston Upon Thames Salary: [Insert Salary Range / Competitive] + Benefits Contract Type: Full-time, Permanent Are you a commercially-minded Quantity Surveyor who thrives on variety and managing projects from inception to completion?...",
         "url": "https://www.cv-library.co.uk/kingston-jobs-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -3370,6 +3370,57 @@
       },
       "num": 160,
       "lastSent": 1795048713057
+    },
+    "web-1g0r6ni": {
+      "status": "sent",
+      "firstSeen": 1795075452720,
+      "job": {
+        "id": "web-1g0r6ni",
+        "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 67 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames?jobId=225752160&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M7E48WGT1FTHE7P6Q0X7GQS4",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 65
+      },
+      "num": 161,
+      "lastSent": 1795075462213
+    },
+    "web-rqcabp": {
+      "status": "sent",
+      "firstSeen": 1795075452720,
+      "job": {
+        "id": "web-rqcabp",
+        "title": "Cscs Cleaner jobs in Kingston upon Thames, Greater London - November ...",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 21 live Cscs Cleaner jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "url": "https://www.cv-library.co.uk/cscs-cleaner-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 162,
+      "lastSent": 1795075463165
+    },
+    "web-rwpyou": {
+      "status": "sent",
+      "firstSeen": 1795075452720,
+      "job": {
+        "id": "web-rwpyou",
+        "title": "Kingston College Jobs | Apply Through CV Library",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "View all jobs by Kingston College jobs on CV Library, find out more about working with us & what makes us different.",
+        "url": "https://www.cv-library.co.uk/list-jobs/346750/Kingston-College",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 163,
+      "lastSent": 1795075463359
     }
   }
 }
