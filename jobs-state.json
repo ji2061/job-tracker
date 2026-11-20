@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 163,
+  "counter": 164,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -236,7 +236,7 @@
         "title": "Kingston Upon Thames jobs - November 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 119 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
+        "summary": "Find 128 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -326,7 +326,7 @@
         "title": "Lidl Job Search: Find your new job here!",
         "company": "careers.lidl.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Internal Communications Associate Consultant 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Experienced £41,800* - £50,600* per annum",
+        "summary": "Senior HR Business Partner 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Experienced £61,600* up to £88,000* depending on experience",
         "url": "https://careers.lidl.co.uk/jobsearch?page=1&sort_field=location.distance&sort_order=asc&baseSearch=%7B%22location%22:%7B%22midPointName%22:%22Surbiton,+Greater+London%22,%22latitude%22:51.3763,%22longitude%22:-0.2791,%22max_distance%22:%222%22%7D%7D",
         "pay": "See listing",
         "source": "web dork",
@@ -3142,8 +3142,8 @@
       },
       "num": 148,
       "lastSent": 1794780605418,
-      "reminders": 1,
-      "lastReminded": 1794883331789
+      "reminders": 2,
+      "lastReminded": 1795210556906
     },
     "web-1jg7n88": {
       "status": "sent",
@@ -3161,8 +3161,8 @@
       },
       "num": 149,
       "lastSent": 1794780605957,
-      "reminders": 1,
-      "lastReminded": 1794883332856
+      "reminders": 2,
+      "lastReminded": 1795210557077
     },
     "web-ec4wf1": {
       "status": "sent",
@@ -3180,8 +3180,8 @@
       },
       "num": 150,
       "lastSent": 1794780606126,
-      "reminders": 1,
-      "lastReminded": 1794883333034
+      "reminders": 2,
+      "lastReminded": 1795210557272
     },
     "web-12mmqe6": {
       "status": "sent",
@@ -3381,7 +3381,7 @@
         "title": "Christmas And Seasonal jobs in Kingston upon Thames, Greater London ...",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 67 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+        "summary": "Find 108 live Christmas And Seasonal jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/christmas-and-seasonal-jobs-in-kingston-upon-thames?jobId=225752160&locationHash=location.2wln3Ynp7H9johxvShwvQ0cs4Lj&search_id=search.01M7E48WGT1FTHE7P6Q0X7GQS4",
         "pay": "See listing",
         "source": "web dork",
@@ -3429,6 +3429,23 @@
       "lastSent": 1795075463359,
       "reminders": 1,
       "lastReminded": 1795182039502
+    },
+    "web-1f0iw09": {
+      "status": "sent",
+      "firstSeen": 1795210547306,
+      "job": {
+        "id": "web-1f0iw09",
+        "title": "Temporary Working From Home jobs in Kingston upon Thames",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "Find 31 live Temporary Working From Home jobs in Kingston upon Thames on CV -Library. 28 employers advertising these jobs now! Voted Best Generalist Job Board.",
+        "url": "https://www.cv-library.co.uk/working-from-home-jobs-in-kingston-upon-thames?temporary=true",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 52
+      },
+      "num": 164,
+      "lastSent": 1795210556460
     }
   }
 }
