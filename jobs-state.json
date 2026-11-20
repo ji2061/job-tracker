@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 190 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 173 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1060,10 +1060,10 @@
       "firstSeen": 1792606115029,
       "job": {
         "id": "web-13wdlfz",
-        "title": "194 Temporary christmas jobs in Kingston upon Thames, England",
+        "title": "187 Temporary christmas jobs in Kingston upon Thames, England",
         "company": "glassdoor.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Search Temporary christmas jobs in Kingston upon Thames , England with company ratings and salaries. 194 open jobs for Temporary christmas in Kingston upon Thames .",
+        "summary": "Search Temporary christmas jobs in Kingston upon Thames , England with company ratings and salaries. 187 open jobs for Temporary christmas in Kingston upon Thames .",
         "url": "https://www.glassdoor.co.uk/Job/kingston-upon-thames-temporary-christmas-job-jobs-SRCH_IL.0,20_IC3288244_KO21,44.htm",
         "pay": "See listing",
         "source": "web dork",
@@ -3388,7 +3388,9 @@
         "score": 65
       },
       "num": 161,
-      "lastSent": 1795075462213
+      "lastSent": 1795075462213,
+      "reminders": 1,
+      "lastReminded": 1795182038983
     },
     "web-rqcabp": {
       "status": "sent",
@@ -3405,7 +3407,9 @@
         "score": 50
       },
       "num": 162,
-      "lastSent": 1795075463165
+      "lastSent": 1795075463165,
+      "reminders": 1,
+      "lastReminded": 1795182039358
     },
     "web-rwpyou": {
       "status": "sent",
@@ -3422,7 +3426,9 @@
         "score": 50
       },
       "num": 163,
-      "lastSent": 1795075463359
+      "lastSent": 1795075463359,
+      "reminders": 1,
+      "lastReminded": 1795182039502
     }
   }
 }
