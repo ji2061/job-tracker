@@ -71,7 +71,7 @@
         "title": "christmas temporary jobs in kingston upon thames",
         "company": "simplyhired.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Discover 173 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
+        "summary": "Discover 176 Christmas temporary job opportunities in Kingston Upon Thames . Apply today to advance your career with top employers.",
         "url": "https://www.simplyhired.co.uk/search?q=christmas+temporary&l=kingston+upon+thames",
         "pay": "See listing",
         "source": "web dork",
@@ -813,10 +813,10 @@
       "firstSeen": 1792417544814,
       "job": {
         "id": "web-rl35zo",
-        "title": "Urgent! Christmas day jobs in Kingston upon Thames, Greater ... - Jooble",
+        "title": "Christmas day jobs in Kingston upon Thames, Greater London",
         "company": "uk.jooble.org",
         "location": "Kingston area (web find)",
-        "summary": "Apply for Christmas day jobs in Kingston upon Thames , Greater London. Explore 374.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas day jobs is easy to find. Start your new career right now!",
+        "summary": "Apply for Christmas day jobs in Kingston upon Thames , Greater London. Explore 345.000+ new and current Job vacancies. Competitive salary. Full-time, temporary, and part-time jobs . Fast & Free. Top employers in Kingston upon Thames , Greater London. Christmas day jobs is easy to find. Start your new career right now!",
         "url": "https://uk.jooble.org/jobs-christmas-day/Kingston-upon-Thames%2C-Greater-London",
         "pay": "See listing",
         "source": "web dork",
@@ -2971,8 +2971,8 @@
       },
       "num": 139,
       "lastSent": 1794583987229,
-      "reminders": 2,
-      "lastReminded": 1795026503781
+      "reminders": 3,
+      "lastReminded": 1795300208957
     },
     "web-yna1hc": {
       "status": "sent",
@@ -2990,8 +2990,8 @@
       },
       "num": 140,
       "lastSent": 1794583989949,
-      "reminders": 2,
-      "lastReminded": 1795026505115
+      "reminders": 3,
+      "lastReminded": 1795300209135
     },
     "web-15fd1em": {
       "status": "sent",
@@ -3445,7 +3445,9 @@
         "score": 52
       },
       "num": 164,
-      "lastSent": 1795210556460
+      "lastSent": 1795210556460,
+      "reminders": 1,
+      "lastReminded": 1795300208334
     }
   }
 }
