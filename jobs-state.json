@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 164,
+  "counter": 168,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -1804,7 +1804,7 @@
         "title": "Marks & Spencer jobs in Kingston upon Thames - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "760 Marks & Spencer Jobs in Kingston upon Thames . Apply to the latest jobs near you. Learn about salary, employee reviews, benefits, and work-life balance",
+        "summary": "419 Marks & Spencer Jobs in Kingston upon Thames . Apply to the latest jobs near you. Learn about salary, employee reviews, benefits, and work-life balance",
         "url": "https://uk.indeed.com/cmp/Marks-&-Spencer/jobs/l-Kingston-upon-Thames",
         "pay": "See listing",
         "source": "web dork",
@@ -1842,7 +1842,7 @@
         "title": "Job in Kingston upon Thames (with Salaries) - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "273,805 jobs available in Kingston upon Thames on Indeed.com. Apply to The British Army, Locum Meds, Recruitment Professionals Group Ltd and more companies!",
+        "summary": "258,273 jobs available in Kingston upon Thames on Indeed.com. Apply to The British Army, Locum Meds, Recruitment Professionals Group Ltd and more companies!",
         "url": "https://uk.indeed.com/q-jobs-l-kingston-upon-thames-jobs.html?vjk=b428296b9b612b18",
         "pay": "See listing",
         "source": "web dork",
@@ -3077,7 +3077,7 @@
         "title": "Temporary Christmas Job in Richmond upon Thames (with Salaries ... - Indeed",
         "company": "uk.indeed.com",
         "location": "Kingston area (web find)",
-        "summary": "198 Temporary Christmas jobs available in Richmond upon Thames on Indeed.com. Apply to YoungCapital, Pandora Jewelry, 24 Seven and more companies!",
+        "summary": "187 Temporary Christmas jobs available in Richmond upon Thames on Indeed.com. Apply to YoungCapital, 24 Seven, Reiss and more companies!",
         "url": "https://uk.indeed.com/q-temporary-christmas-l-richmond-upon-thames-jobs.html?vjk=efd5a1fd113c9aa0",
         "pay": "See listing",
         "source": "web dork",
@@ -3142,8 +3142,8 @@
       },
       "num": 148,
       "lastSent": 1794780605418,
-      "reminders": 2,
-      "lastReminded": 1795210556906
+      "reminders": 3,
+      "lastReminded": 1795388294637
     },
     "web-1jg7n88": {
       "status": "sent",
@@ -3408,8 +3408,8 @@
       },
       "num": 162,
       "lastSent": 1795075463165,
-      "reminders": 1,
-      "lastReminded": 1795182039358
+      "reminders": 2,
+      "lastReminded": 1795388294267
     },
     "web-rwpyou": {
       "status": "sent",
@@ -3427,8 +3427,8 @@
       },
       "num": 163,
       "lastSent": 1795075463359,
-      "reminders": 1,
-      "lastReminded": 1795182039502
+      "reminders": 2,
+      "lastReminded": 1795388294454
     },
     "web-1f0iw09": {
       "status": "sent",
@@ -3448,6 +3448,74 @@
       "lastSent": 1795210556460,
       "reminders": 1,
       "lastReminded": 1795300208334
+    },
+    "web-1w5wsbk": {
+      "status": "sent",
+      "firstSeen": 1795388285858,
+      "job": {
+        "id": "web-1w5wsbk",
+        "title": "seasonal christmas part time jobs in Kingston upon Thames",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Explore 67 Seasonal Christmas Part Time job openings in Kingston upon Thames on Indeed. Find flexible work near you that fits your schedule from retail, food service, delivery, and more.",
+        "url": "https://uk.indeed.com/q-seasonal-christmas-part-time-l-kingston-upon-thames-jobs.html?vjk=7561b0ff4c4397a8",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 61
+      },
+      "num": 165,
+      "lastSent": 1795388293218
+    },
+    "web-szpjj9": {
+      "status": "sent",
+      "firstSeen": 1795388285858,
+      "job": {
+        "id": "web-szpjj9",
+        "title": "part time with no experience jobs in Kingston upon Thames",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Explore 735 Part Time With No Experience job openings in Kingston upon Thames on Indeed. Find flexible work near you that fits your schedule from retail, food service, delivery, and more.",
+        "url": "https://uk.indeed.com/q-part-time-with-no-experience-l-kingston-upon-thames-jobs.html?vjk=1411055dcce8bfab",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 56
+      },
+      "num": 166,
+      "lastSent": 1795388293717
+    },
+    "web-bg4nev": {
+      "status": "sent",
+      "firstSeen": 1795388285858,
+      "job": {
+        "id": "web-bg4nev",
+        "title": "Christmas Job in Kingston upon Thames (with Salaries) - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "Apply to Christmas jobs now hiring in Kingston upon Thames on Indeed.com, the worlds largest job site .",
+        "url": "https://uk.indeed.com/q-christmas-jobs-l-kingston-upon-thames-jobs.html?vjk=efbc893a18ece183",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 55
+      },
+      "num": 167,
+      "lastSent": 1795388293902
+    },
+    "web-rredww": {
+      "status": "sent",
+      "firstSeen": 1795388285858,
+      "job": {
+        "id": "web-rredww",
+        "title": "Sainsbury&#x27;s jobs in Kingston upon Thames - Indeed",
+        "company": "uk.indeed.com",
+        "location": "Kingston area (web find)",
+        "summary": "82 Sainsbury&#x27;s Jobs in Kingston upon Thames . Apply to the latest jobs near you. Learn about salary, employee reviews, benefits, and work-life balance",
+        "url": "https://uk.indeed.com/cmp/Sainsbury-S-886c1a33/jobs/l-Kingston-upon-Thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 168,
+      "lastSent": 1795388294086
     }
   }
 }
