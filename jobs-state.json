@@ -3464,7 +3464,9 @@
         "score": 61
       },
       "num": 165,
-      "lastSent": 1795388293218
+      "lastSent": 1795388293218,
+      "reminders": 1,
+      "lastReminded": 1795482221263
     },
     "web-szpjj9": {
       "status": "sent",
@@ -3481,7 +3483,9 @@
         "score": 56
       },
       "num": 166,
-      "lastSent": 1795388293717
+      "lastSent": 1795388293717,
+      "reminders": 1,
+      "lastReminded": 1795482222090
     },
     "web-bg4nev": {
       "status": "sent",
@@ -3498,7 +3502,9 @@
         "score": 55
       },
       "num": 167,
-      "lastSent": 1795388293902
+      "lastSent": 1795388293902,
+      "reminders": 1,
+      "lastReminded": 1795482222245
     },
     "web-rredww": {
       "status": "sent",
