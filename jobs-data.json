@@ -1,5 +1,5 @@
 {
-  "updatedAt": "25 Nov 2026",
+  "updatedAt": "26 Nov 2026",
   "location": "KT1 3HZ · bus-only · 16+",
   "note": "No keys set (REED_API_KEY, ADZUNA_APP_ID + ADZUNA_APP_KEY) - add them as GitHub repo secrets for live results.",
   "jobs": [
@@ -74,12 +74,22 @@
       "source": "web dork"
     },
     {
-      "id": "web-1w5m9r0",
-      "title": "Permanent jobs in Kingston upon Thames - CV-Library.co.uk",
+      "id": "web-19akmeh",
+      "title": "Entry Level jobs in Kingston upon Thames, Greater London",
       "company": "cv-library.co.uk",
       "location": "Kingston area (web find)",
-      "summary": "Find 17,937 live Permanent jobs in Kingston upon Thames on CV -Library. 2,923 employers advertising these jobs now! Voted Best Generalist Job Board.",
-      "url": "https://www.cv-library.co.uk/permanent-jobs-in-kingston-upon-thames?expand_distance=1&gclid=cj0kcqia3&s=103664",
+      "summary": "Find 6 live Entry Level jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+      "url": "https://www.cv-library.co.uk/entry-level-jobs-in-kingston-upon-thames",
+      "pay": "See listing",
+      "source": "web dork"
+    },
+    {
+      "id": "web-18zlzh1",
+      "title": "Painter And Decorator jobs in Kingston upon Thames, Greater London ...",
+      "company": "cv-library.co.uk",
+      "location": "Kingston area (web find)",
+      "summary": "Find 21 live Painter And Decorator jobs in Kingston upon Thames , Greater London on www. CV -library.co.uk.",
+      "url": "https://www.cv-library.co.uk/painter-and-decorator-jobs-in-kingston-upon-thames",
       "pay": "See listing",
       "source": "web dork"
     },
@@ -90,6 +100,16 @@
       "location": "Kingston area (web find)",
       "summary": "Find jobs in Tolworth with Reed.co.uk. Discover vacancies on offer, in and around Tolworth , helping you Mondays.",
       "url": "https://www.reed.co.uk/jobs/jobs-in-tolworth",
+      "pay": "See listing",
+      "source": "web dork"
+    },
+    {
+      "id": "web-1j00rhl",
+      "title": "Lidl Job Search: Find your new job here!",
+      "company": "careers.lidl.co.uk",
+      "location": "Kingston area (web find)",
+      "summary": "Customs Business Process Expert 0.1 miles away Lidl GB Tolworth Head Office, Lidl House, 14 Kingston Road, Surbiton , Full Time Experienced £41,800* - £50,600* per annum",
+      "url": "https://careers.lidl.co.uk/jobsearch?page=1&sort_field=location.distance&sort_order=asc&baseSearch=%7B%22location%22:%7B%22midPointName%22:%22Surbiton,+Greater+London%22,%22latitude%22:51.3763,%22longitude%22:-0.2791,%22max_distance%22:%222%22%7D%7D",
       "pay": "See listing",
       "source": "web dork"
     }
