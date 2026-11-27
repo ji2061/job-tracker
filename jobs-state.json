@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "counter": 172,
+  "counter": 173,
   "welcomeSent": true,
   "jobs": {
     "web-1x5vi1l": {
@@ -236,7 +236,7 @@
         "title": "Kingston Upon Thames jobs - November 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 121 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
+        "summary": "Find 130 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -3001,7 +3001,7 @@
         "title": "Kingston jobs - November 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Quantity Surveyor (QS) Location: Kingston Upon Thames Salary: [Insert Salary Range / Competitive] + Benefits Contract Type: Full-time, Permanent Are you a commercially-minded Quantity Surveyor who thrives on variety and managing projects from inception to completion?...",
+        "summary": "In this permanent position, you will cover a designated area across Kingston upon Thames and the surrounding area. You will be responsible for carrying out general plumbing repairs, maintenance, and servicing within customers&#x27; homes and private residential properties....",
         "url": "https://www.cv-library.co.uk/kingston-jobs-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -3484,8 +3484,8 @@
       },
       "num": 166,
       "lastSent": 1795388293717,
-      "reminders": 2,
-      "lastReminded": 1795670017694
+      "reminders": 3,
+      "lastReminded": 1795794963595
     },
     "web-bg4nev": {
       "status": "sent",
@@ -3503,8 +3503,8 @@
       },
       "num": 167,
       "lastSent": 1795388293902,
-      "reminders": 2,
-      "lastReminded": 1795670018231
+      "reminders": 3,
+      "lastReminded": 1795794963721
     },
     "web-rredww": {
       "status": "sent",
@@ -3522,8 +3522,8 @@
       },
       "num": 168,
       "lastSent": 1795388294086,
-      "reminders": 2,
-      "lastReminded": 1795670018446
+      "reminders": 3,
+      "lastReminded": 1795794963885
     },
     "web-m06rja": {
       "status": "sent",
@@ -3596,6 +3596,23 @@
       },
       "num": 172,
       "lastSent": 1795737414110
+    },
+    "web-2stgsa": {
+      "status": "sent",
+      "firstSeen": 1795794954284,
+      "job": {
+        "id": "web-2stgsa",
+        "title": "Gardener jobs in Kingston upon Thames, Greater London",
+        "company": "cv-library.co.uk",
+        "location": "Kingston area (web find)",
+        "summary": "CV -Library helps you search and compare 113 gardener jobs in Kingston upon Thames , Greater London, including opportunities with landscaping companies, local authorities, property maintenance providers and private employers.",
+        "url": "https://www.cv-library.co.uk/gardener-jobs-in-kingston-upon-thames",
+        "pay": "See listing",
+        "source": "web dork",
+        "score": 50
+      },
+      "num": 173,
+      "lastSent": 1795794963020
     }
   }
 }
