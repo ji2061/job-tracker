@@ -1,18 +1,8 @@
 {
-  "updatedAt": "27 Nov 2026",
+  "updatedAt": "28 Nov 2026",
   "location": "KT1 3HZ · bus-only · 16+",
-  "note": "Tonight's scrape found nothing new - showing previous results.",
+  "note": "No keys set (REED_API_KEY, ADZUNA_APP_ID + ADZUNA_APP_KEY) - add them as GitHub repo secrets for live results.",
   "jobs": [
-    {
-      "id": "web-1559yf9",
-      "title": "Christmas Customer Assistant - Food - Tolworth Simply Food",
-      "company": "jobs.marksandspencer.com",
-      "location": "Kingston area (web find)",
-      "summary": "Christmas Customer Assistant - Food - Tolworth Simply Food In Store Tolworth Surbiton , Greater London Part Time Temporary Contract end date: 26/12/2026",
-      "url": "https://jobs.marksandspencer.com/job-search/in-store/surbiton-greater-london/christmas-customer-assistant-food-tolworth-simply-food/300008385010503",
-      "pay": "See listing",
-      "source": "web dork"
-    },
     {
       "id": "web-m06rja",
       "title": "Seasonal jobs in Kingston upon Thames, Greater London - November 2026 ...",
@@ -38,18 +28,8 @@
       "title": "Kingston Upon Thames jobs - November 2026 | CV Library",
       "company": "cv-library.co.uk",
       "location": "Kingston area (web find)",
-      "summary": "Find 130 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
+      "summary": "Find 133 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
       "url": "https://www.cv-library.co.uk/kingston-upon-thames-jobs",
-      "pay": "See listing",
-      "source": "web dork"
-    },
-    {
-      "id": "web-15fd1em",
-      "title": "Kingston jobs - November 2026 | CV Library",
-      "company": "cv-library.co.uk",
-      "location": "Kingston area (web find)",
-      "summary": "In this permanent position, you will cover a designated area across Kingston upon Thames and the surrounding area. You will be responsible for carrying out general plumbing repairs, maintenance, and servicing within customers&#x27; homes and private residential properties....",
-      "url": "https://www.cv-library.co.uk/kingston-jobs-jobs",
       "pay": "See listing",
       "source": "web dork"
     },

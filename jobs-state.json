@@ -236,7 +236,7 @@
         "title": "Kingston Upon Thames jobs - November 2026 | CV Library",
         "company": "cv-library.co.uk",
         "location": "Kingston area (web find)",
-        "summary": "Find 130 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
+        "summary": "Find 133 live Kingston Upon Thames jobs on www. CV -library.co.uk.",
         "url": "https://www.cv-library.co.uk/kingston-upon-thames-jobs",
         "pay": "See listing",
         "source": "web dork",
@@ -3541,8 +3541,8 @@
       },
       "num": 169,
       "lastSent": 1795649022689,
-      "reminders": 1,
-      "lastReminded": 1795737414252
+      "reminders": 2,
+      "lastReminded": 1795842587633
     },
     "web-1v30h7h": {
       "status": "sent",
@@ -3578,7 +3578,9 @@
         "score": 42
       },
       "num": 171,
-      "lastSent": 1795737413755
+      "lastSent": 1795737413755,
+      "reminders": 1,
+      "lastReminded": 1795842587135
     },
     "web-14inss1": {
       "status": "sent",
@@ -3595,7 +3597,9 @@
         "score": 40
       },
       "num": 172,
-      "lastSent": 1795737414110
+      "lastSent": 1795737414110,
+      "reminders": 1,
+      "lastReminded": 1795842587502
     },
     "web-2stgsa": {
       "status": "sent",
